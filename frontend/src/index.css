@@ -58,13 +58,13 @@ input {
     --selected-bg: #26464a;
   }
 
-  .error-state {
+  .async-autocomplete__error {
     border-color: #87494d;
     background: #391f23;
     color: #ffc2c2;
   }
 
-  .error-state .react-aria-Button {
+  .async-autocomplete__error .react-aria-Button {
     border-color: #a46064;
     background: #24191b;
     color: #ffd7d7;

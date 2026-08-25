@@ -131,7 +131,9 @@ describe('DiagnosisAutocomplete', () => {
       name: 'I51.9',
     })
 
-    await user.click(screen.getByRole('button', { name: 'Clear search' }))
+    await user.click(
+      screen.getByRole('button', { name: 'Clear diagnosis search' }),
+    )
 
     expect(search).toHaveValue('')
     expect(await screen.findByRole('option', { name: 'A00' })).toBeVisible()

@@ -20,7 +20,7 @@ export default defineConfig({
     {
       command: './mvnw spring-boot:run',
       cwd: '../backend',
-      url: 'http://127.0.0.1:8080/api/diagnoses?page=0&size=1',
+      url: 'http://127.0.0.1:8080/api/veterinary-clinics?page=0&size=1',
       reuseExistingServer: !process.env.CI,
       timeout: 120_000,
     },

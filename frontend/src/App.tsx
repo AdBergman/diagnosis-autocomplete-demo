@@ -1,19 +1,23 @@
 import './App.css'
 import { DiagnosisAutocomplete } from './DiagnosisAutocomplete'
+import { VeterinaryClinicAutocomplete } from './VeterinaryClinicAutocomplete'
 
 function App() {
   return (
     <main className="app-shell">
       <header className="app-header">
-        <p className="eyebrow">Spring Boot + React Aria</p>
-        <h1>Diagnosis autocomplete</h1>
+        <p className="eyebrow">One component, two catalogues</p>
+        <h1>Server-backed autocomplete</h1>
         <p className="intro">
-          Browse or search 12,000 synthetic human and veterinary diagnoses.
-          Results are ranked and paged by the server.
+          The same lightweight React Aria component searches diagnoses and
+          veterinary clinics through independently ranked, paged APIs.
         </p>
       </header>
 
-      <DiagnosisAutocomplete />
+      <div className="catalogue-grid">
+        <DiagnosisAutocomplete />
+        <VeterinaryClinicAutocomplete />
+      </div>
 
       <footer className="disclaimer">
         Synthetic demonstration data. Not for clinical or veterinary use.
