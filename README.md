@@ -1,26 +1,27 @@
-# Diagnosis autocomplete demo
+# Generic server-backed autocomplete demo
 
-A small reference application for serving a large, unordered catalogue through deterministic server-side search and paging, then consuming it with an accessible React Aria autocomplete.
+A small reference application that uses one lightweight, generic React Aria autocomplete for two independently searched catalogues:
 
-> **Synthetic demonstration data. Not for clinical or veterinary use.**
+- 12,000 synthetic human and veterinary diagnoses
+- 1,000 synthetic Swedish veterinary clinics
+
+> **Synthetic demonstration data. Not for clinical, veterinary, or administrative use.**
 
 ## What this demonstrates
 
 ```text
-12,000 unsorted JSON diagnoses
-             ↓
-Spring Boot search + relevance + paging
-             ↓
-React Aria useAsyncList + Autocomplete
+12,000 diagnoses ──→ Spring search API ──┐
+                                         ├─→ AsyncAutocomplete<T, Cursor>
+ 1,000 clinics ────→ Spring search API ──┘
 ```
 
-The catalogue contains an even mixture of synthetic human (`HUM-`) and veterinary (`VET-`) entries. It is intentionally not a clinical coding standard.
+Both source files are deliberately unordered. The clinic catalogue contains unique names and unique, Luhn-valid organisation numbers in the Swedish `NNNNNN-NNNN` display format.
 
 ## Technology
 
 - Java 25 and Spring Boot 4.1.1
 - Maven 3.9.16 through the committed Maven Wrapper
-- React 19.2.8 and TypeScript 6.0.3
+- React 19.2.8 and strict TypeScript 6.0.3
 - Vite 8.2.2
 - React Aria Components 1.20.0
 - Node.js 24.19.0 LTS and pnpm 11.24.0
@@ -28,9 +29,11 @@ The catalogue contains an even mixture of synthetic human (`HUM-`) and veterinar
 
 ## Architecture
 
-Spring loads and validates `diagnoses.json` once at startup, then keeps 12,000 small immutable records in memory. A database would add machinery without helping an immutable catalogue of this size. Every request scans the catalogue, normalizes the query, ranks matches deterministically, and returns only the requested page.
+Spring loads and validates `diagnoses.json` and `veterinary-clinics.json` once at startup, then retains both immutable catalogues in memory. Each endpoint normalizes the query, ranks matches deterministically, and returns only the requested page. The browser never downloads a complete catalogue.
 
-The frontend uses React Aria's actual `Autocomplete` rather than `ComboBox`. `useAsyncList` owns loading, filter text, cancellation, errors, and the numeric cursor that maps to Spring's next page. An abortable 250 ms pause debounces searches, native `fetch` receives the supplied `AbortSignal`, and `ListBoxLoadMoreItem` requests the next page from within the autocomplete result list. The browser never downloads the complete catalogue.
+The frontend's `AsyncAutocomplete<T, Cursor>` owns the shared React Aria behavior. It accepts a typed loader, arbitrary item keys and renderers, configurable accessible text, arbitrary cursor types, controlled or uncontrolled selection, and a selection callback. It uses React Aria's actual `Autocomplete`, `useAsyncList`, and collection behavior, plus an abortable configurable debounce and `ListBoxLoadMoreItem` paging.
+
+`DiagnosisAutocomplete` and `VeterinaryClinicAutocomplete` are thin domain adapters. They supply their API loader, item shape, labels, rendering, and selected-value presentation without duplicating the async or accessible interaction logic. Component CSS is locally imported and all React Aria selectors are scoped beneath `.async-autocomplete`.
 
 ## Run locally
 
@@ -73,7 +76,7 @@ pnpm test
 pnpm build
 ```
 
-The one full-stack browser test starts both applications itself:
+The full-stack browser test starts both applications, exercises both autocomplete adapters, and runs axe-core:
 
 ```bash
 cd frontend
@@ -81,9 +84,11 @@ pnpm exec playwright install chromium
 pnpm test:e2e
 ```
 
-## API
+## APIs
 
-`GET /api/diagnoses` supports optional `q`, `page`, and `size` parameters. The default page size is 20 and the maximum is 50.
+Both endpoints support optional `q`, `page`, and `size` parameters. The default page size is 20 and the maximum is 50.
+
+### Diagnoses
 
 ```bash
 curl 'http://localhost:8080/api/diagnoses?page=0&size=20'
@@ -91,22 +96,40 @@ curl 'http://localhost:8080/api/diagnoses?q=renal&page=0&size=20'
 curl 'http://localhost:8080/api/diagnoses?q=VET-0042&page=0&size=20'
 ```
 
-Responses use an application-owned shape:
+Diagnosis searches cover `code` and `description`.
+
+### Veterinary clinics
+
+```bash
+curl 'http://localhost:8080/api/veterinary-clinics?page=0&size=20'
+curl 'http://localhost:8080/api/veterinary-clinics?q=malmo%20park&page=0&size=20'
+curl 'http://localhost:8080/api/veterinary-clinics?q=5591001622&page=0&size=20'
+```
+
+Clinic searches cover `name` and `organisationNumber`. Organisation-number queries tolerate omission of the dash.
+
+Responses use the same application-owned page shape:
 
 ```json
 {
   "items": [
     {
-      "code": "VET-004281",
-      "description": "Synthetic canine renal inflammatory disorder"
+      "name": "Malmö Park Djursjukhus",
+      "organisationNumber": "559100-1622"
     }
   ],
   "page": 0,
   "size": 20,
-  "totalElements": 137,
-  "totalPages": 7,
-  "hasNext": true
+  "totalElements": 1,
+  "totalPages": 1,
+  "hasNext": false
 }
 ```
 
-Blank searches browse the catalogue in stable description/code order. Nonblank searches are case, whitespace, separator, and diacritic tolerant and rank exact codes and prefixes ahead of broader description matches. Invalid paging returns an RFC 9457 Problem Detail response.
+Blank searches browse in stable human-friendly order. Nonblank searches are case, whitespace, separator, and diacritic tolerant. Invalid paging returns an RFC 9457 Problem Detail response.
+
+The deterministic clinic fixture can be regenerated with:
+
+```bash
+node backend/scripts/generate-veterinary-clinics.mjs
+```
