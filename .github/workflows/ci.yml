@@ -30,7 +30,7 @@ jobs:
         working-directory: frontend
     steps:
       - uses: actions/checkout@v5
-      - uses: pnpm/action-setup@v4
+      - uses: pnpm/action-setup@v6
         with:
           version: 11.24.0
           run_install: false
@@ -58,7 +58,7 @@ jobs:
           distribution: temurin
           java-version: '25'
           cache: maven
-      - uses: pnpm/action-setup@v4
+      - uses: pnpm/action-setup@v6
         with:
           version: 11.24.0
           run_install: false
