@@ -11,8 +11,8 @@
 	<groupId>dev.example</groupId>
 	<artifactId>diagnosis-autocomplete-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>diagnosis-autocomplete-backend</name>
-	<description>Server-backed diagnosis autocomplete demo</description>
+	<name>catalogue-autocomplete-backend</name>
+	<description>Server-backed generic autocomplete demo</description>
 	<url/>
 	<licenses>
 		<license/>

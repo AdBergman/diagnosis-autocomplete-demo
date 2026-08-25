@@ -1,0 +1,4002 @@
+[
+  {
+    "name": "Malmö Park Djursjukhus",
+    "organisationNumber": "559100-1622"
+  },
+  {
+    "name": "Lund Östra Hästklinik",
+    "organisationNumber": "559100-7389"
+  },
+  {
+    "name": "Göteborg Norra Djurklinik",
+    "organisationNumber": "559100-2109"
+  },
+  {
+    "name": "Åre Östra Veterinärcenter",
+    "organisationNumber": "559100-0368"
+  },
+  {
+    "name": "Västerås Östra Djurklinik",
+    "organisationNumber": "559100-9302"
+  },
+  {
+    "name": "Västerås Södra Veterinärmottagning",
+    "organisationNumber": "559100-9245"
+  },
+  {
+    "name": "Göteborg City Djurklinik",
+    "organisationNumber": "559100-2703"
+  },
+  {
+    "name": "Malmö Dal Veterinärmottagning",
+    "organisationNumber": "559100-1846"
+  },
+  {
+    "name": "Uppsala City Djursjukhus",
+    "organisationNumber": "559100-3727"
+  },
+  {
+    "name": "Åre Södra Veterinärcenter",
+    "organisationNumber": "559100-0269"
+  },
+  {
+    "name": "Visby City Smådjursklinik",
+    "organisationNumber": "559100-6779"
+  },
+  {
+    "name": "Malmö Östra Veterinärcenter",
+    "organisationNumber": "559100-1366"
+  },
+  {
+    "name": "Åre Centrum Hästklinik",
+    "organisationNumber": "559100-0087"
+  },
+  {
+    "name": "Göteborg Östra Djurklinik",
+    "organisationNumber": "559100-2307"
+  },
+  {
+    "name": "Åre Höjd Veterinärcenter",
+    "organisationNumber": "559100-0962"
+  },
+  {
+    "name": "Uppsala Norra Hästklinik",
+    "organisationNumber": "559100-3180"
+  },
+  {
+    "name": "Kiruna Höjd Djurklinik",
+    "organisationNumber": "559100-5904"
+  },
+  {
+    "name": "Malmö Strand Veterinärcenter",
+    "organisationNumber": "559100-1564"
+  },
+  {
+    "name": "Lund Södra Hästklinik",
+    "organisationNumber": "559100-7280"
+  },
+  {
+    "name": "Örebro Centrum Veterinärcenter",
+    "organisationNumber": "559100-8064"
+  },
+  {
+    "name": "Göteborg Västra Veterinärmottagning",
+    "organisationNumber": "559100-2448"
+  },
+  {
+    "name": "Göteborg Södra Smådjursklinik",
+    "organisationNumber": "559100-2273"
+  },
+  {
+    "name": "Visby Östra Djurvård",
+    "organisationNumber": "559100-6332"
+  },
+  {
+    "name": "Åre City Djurklinik",
+    "organisationNumber": "559100-0707"
+  },
+  {
+    "name": "Örebro Östra Hästklinik",
+    "organisationNumber": "559100-8387"
+  },
+  {
+    "name": "Örebro Västra Veterinärmottagning",
+    "organisationNumber": "559100-8445"
+  },
+  {
+    "name": "Åre Södra Veterinärmottagning",
+    "organisationNumber": "559100-0244"
+  },
+  {
+    "name": "Stockholm Centrum Djursjukhus",
+    "organisationNumber": "559100-4022"
+  },
+  {
+    "name": "Visby Södra Veterinärmottagning",
+    "organisationNumber": "559100-6241"
+  },
+  {
+    "name": "Göteborg Norra Veterinärmottagning",
+    "organisationNumber": "559100-2141"
+  },
+  {
+    "name": "Åre Dal Djursjukhus",
+    "organisationNumber": "559100-0822"
+  },
+  {
+    "name": "Uppsala Östra Hästklinik",
+    "organisationNumber": "559100-3388"
+  },
+  {
+    "name": "Åre Västra Veterinärmottagning",
+    "organisationNumber": "559100-0442"
+  },
+  {
+    "name": "Malmö Höjd Veterinärmottagning",
+    "organisationNumber": "559100-1945"
+  },
+  {
+    "name": "Malmö Dal Djurklinik",
+    "organisationNumber": "559100-1804"
+  },
+  {
+    "name": "Örebro Västra Hästklinik",
+    "organisationNumber": "559100-8486"
+  },
+  {
+    "name": "Åre Park Djursjukhus",
+    "organisationNumber": "559100-0624"
+  },
+  {
+    "name": "Åre City Veterinärmottagning",
+    "organisationNumber": "559100-0749"
+  },
+  {
+    "name": "Västerås Dal Hästklinik",
+    "organisationNumber": "559100-9880"
+  },
+  {
+    "name": "Lund Höjd Djurklinik",
+    "organisationNumber": "559100-7900"
+  },
+  {
+    "name": "Örebro Höjd Hästklinik",
+    "organisationNumber": "559100-8981"
+  },
+  {
+    "name": "Västerås City Veterinärcenter",
+    "organisationNumber": "559100-9765"
+  },
+  {
+    "name": "Kiruna Södra Hästklinik",
+    "organisationNumber": "559100-5284"
+  },
+  {
+    "name": "Lund Strand Veterinärmottagning",
+    "organisationNumber": "559100-7546"
+  },
+  {
+    "name": "Uppsala Strand Djurklinik",
+    "organisationNumber": "559100-3503"
+  },
+  {
+    "name": "Stockholm Östra Veterinärmottagning",
+    "organisationNumber": "559100-4345"
+  },
+  {
+    "name": "Västerås Centrum Hästklinik",
+    "organisationNumber": "559100-9088"
+  },
+  {
+    "name": "Visby Södra Veterinärcenter",
+    "organisationNumber": "559100-6266"
+  },
+  {
+    "name": "Lund Dal Djurklinik",
+    "organisationNumber": "559100-7801"
+  },
+  {
+    "name": "Kiruna Östra Djurhälsa",
+    "organisationNumber": "559100-5391"
+  },
+  {
+    "name": "Uppsala Norra Djurklinik",
+    "organisationNumber": "559100-3107"
+  },
+  {
+    "name": "Kiruna Västra Djurklinik",
+    "organisationNumber": "559100-5409"
+  },
+  {
+    "name": "Lund Höjd Hästklinik",
+    "organisationNumber": "559100-7983"
+  },
+  {
+    "name": "Lund Östra Djursjukhus",
+    "organisationNumber": "559100-7322"
+  },
+  {
+    "name": "Åre Höjd Djurklinik",
+    "organisationNumber": "559100-0905"
+  },
+  {
+    "name": "Åre Dal Hästklinik",
+    "organisationNumber": "559100-0889"
+  },
+  {
+    "name": "Göteborg Strand Hästklinik",
+    "organisationNumber": "559100-2588"
+  },
+  {
+    "name": "Malmö Södra Hästklinik",
+    "organisationNumber": "559100-1283"
+  },
+  {
+    "name": "Västerås Centrum Djurvård",
+    "organisationNumber": "559100-9039"
+  },
+  {
+    "name": "Göteborg Södra Hästklinik",
+    "organisationNumber": "559100-2281"
+  },
+  {
+    "name": "Lund Strand Hästklinik",
+    "organisationNumber": "559100-7587"
+  },
+  {
+    "name": "Visby Norra Djursjukhus",
+    "organisationNumber": "559100-6126"
+  },
+  {
+    "name": "Malmö Östra Djursjukhus",
+    "organisationNumber": "559100-1325"
+  },
+  {
+    "name": "Visby Norra Smådjursklinik",
+    "organisationNumber": "559100-6175"
+  },
+  {
+    "name": "Örebro Södra Djurhälsa",
+    "organisationNumber": "559100-8296"
+  },
+  {
+    "name": "Visby City Veterinärmottagning",
+    "organisationNumber": "559100-6746"
+  },
+  {
+    "name": "Uppsala Östra Djursjukhus",
+    "organisationNumber": "559100-3321"
+  },
+  {
+    "name": "Malmö Centrum Djurklinik",
+    "organisationNumber": "559100-1002"
+  },
+  {
+    "name": "Örebro Dal Veterinärmottagning",
+    "organisationNumber": "559100-8841"
+  },
+  {
+    "name": "Stockholm Södra Djursjukhus",
+    "organisationNumber": "559100-4220"
+  },
+  {
+    "name": "Västerås City Hästklinik",
+    "organisationNumber": "559100-9781"
+  },
+  {
+    "name": "Malmö Södra Veterinärcenter",
+    "organisationNumber": "559100-1267"
+  },
+  {
+    "name": "Malmö Södra Djursjukhus",
+    "organisationNumber": "559100-1226"
+  },
+  {
+    "name": "Malmö Norra Djurhälsa",
+    "organisationNumber": "559100-1192"
+  },
+  {
+    "name": "Västerås Dal Djurvård",
+    "organisationNumber": "559100-9831"
+  },
+  {
+    "name": "Kiruna Höjd Djurhälsa",
+    "organisationNumber": "559100-5995"
+  },
+  {
+    "name": "Göteborg Östra Hästklinik",
+    "organisationNumber": "559100-2380"
+  },
+  {
+    "name": "Lund Centrum Djursjukhus",
+    "organisationNumber": "559100-7025"
+  },
+  {
+    "name": "Malmö City Djurhälsa",
+    "organisationNumber": "559100-1796"
+  },
+  {
+    "name": "Malmö Norra Djurklinik",
+    "organisationNumber": "559100-1101"
+  },
+  {
+    "name": "Uppsala Östra Djurhälsa",
+    "organisationNumber": "559100-3396"
+  },
+  {
+    "name": "Örebro Norra Hästklinik",
+    "organisationNumber": "559100-8189"
+  },
+  {
+    "name": "Malmö Park Hästklinik",
+    "organisationNumber": "559100-1689"
+  },
+  {
+    "name": "Uppsala Park Smådjursklinik",
+    "organisationNumber": "559100-3677"
+  },
+  {
+    "name": "Uppsala City Veterinärcenter",
+    "organisationNumber": "559100-3768"
+  },
+  {
+    "name": "Åre Höjd Djurhälsa",
+    "organisationNumber": "559100-0996"
+  },
+  {
+    "name": "Åre Strand Smådjursklinik",
+    "organisationNumber": "559100-0574"
+  },
+  {
+    "name": "Lund Strand Veterinärcenter",
+    "organisationNumber": "559100-7561"
+  },
+  {
+    "name": "Åre Höjd Djurcenter",
+    "organisationNumber": "559100-0954"
+  },
+  {
+    "name": "Stockholm Höjd Veterinärklinik",
+    "organisationNumber": "559100-4915"
+  },
+  {
+    "name": "Kiruna Södra Veterinärcenter",
+    "organisationNumber": "559100-5268"
+  },
+  {
+    "name": "Malmö Centrum Veterinärcenter",
+    "organisationNumber": "559100-1069"
+  },
+  {
+    "name": "Åre City Veterinärklinik",
+    "organisationNumber": "559100-0715"
+  },
+  {
+    "name": "Kiruna Strand Veterinärmottagning",
+    "organisationNumber": "559100-5540"
+  },
+  {
+    "name": "Lund Park Djursjukhus",
+    "organisationNumber": "559100-7629"
+  },
+  {
+    "name": "Göteborg Norra Hästklinik",
+    "organisationNumber": "559100-2182"
+  },
+  {
+    "name": "Stockholm Östra Djursjukhus",
+    "organisationNumber": "559100-4329"
+  },
+  {
+    "name": "Göteborg Centrum Veterinärmottagning",
+    "organisationNumber": "559100-2042"
+  },
+  {
+    "name": "Malmö Park Veterinärmottagning",
+    "organisationNumber": "559100-1648"
+  },
+  {
+    "name": "Örebro City Djurklinik",
+    "organisationNumber": "559100-8700"
+  },
+  {
+    "name": "Uppsala Strand Djurcenter",
+    "organisationNumber": "559100-3552"
+  },
+  {
+    "name": "Västerås Strand Djursjukhus",
+    "organisationNumber": "559100-9526"
+  },
+  {
+    "name": "Åre Dal Djurklinik",
+    "organisationNumber": "559100-0806"
+  },
+  {
+    "name": "Visby Västra Djurhälsa",
+    "organisationNumber": "559100-6498"
+  },
+  {
+    "name": "Uppsala Dal Djurcenter",
+    "organisationNumber": "559100-3859"
+  },
+  {
+    "name": "Åre Centrum Smådjursklinik",
+    "organisationNumber": "559100-0079"
+  },
+  {
+    "name": "Visby Östra Djursjukhus",
+    "organisationNumber": "559100-6324"
+  },
+  {
+    "name": "Kiruna Östra Veterinärklinik",
+    "organisationNumber": "559100-5318"
+  },
+  {
+    "name": "Kiruna Höjd Hästklinik",
+    "organisationNumber": "559100-5987"
+  },
+  {
+    "name": "Västerås Park Veterinärcenter",
+    "organisationNumber": "559100-9666"
+  },
+  {
+    "name": "Malmö Centrum Djursjukhus",
+    "organisationNumber": "559100-1028"
+  },
+  {
+    "name": "Uppsala Centrum Veterinärmottagning",
+    "organisationNumber": "559100-3040"
+  },
+  {
+    "name": "Stockholm Strand Hästklinik",
+    "organisationNumber": "559100-4584"
+  },
+  {
+    "name": "Visby Höjd Veterinärcenter",
+    "organisationNumber": "559100-6969"
+  },
+  {
+    "name": "Åre Södra Smådjursklinik",
+    "organisationNumber": "559100-0277"
+  },
+  {
+    "name": "Visby Centrum Hästklinik",
+    "organisationNumber": "559100-6084"
+  },
+  {
+    "name": "Åre Centrum Veterinärcenter",
+    "organisationNumber": "559100-0061"
+  },
+  {
+    "name": "Kiruna Norra Veterinärcenter",
+    "organisationNumber": "559100-5169"
+  },
+  {
+    "name": "Åre Strand Djursjukhus",
+    "organisationNumber": "559100-0525"
+  },
+  {
+    "name": "Lund Västra Veterinärcenter",
+    "organisationNumber": "559100-7462"
+  },
+  {
+    "name": "Åre Centrum Veterinärmottagning",
+    "organisationNumber": "559100-0046"
+  },
+  {
+    "name": "Kiruna Södra Veterinärmottagning",
+    "organisationNumber": "559100-5243"
+  },
+  {
+    "name": "Örebro Norra Djursjukhus",
+    "organisationNumber": "559100-8122"
+  },
+  {
+    "name": "Kiruna Dal Djursjukhus",
+    "organisationNumber": "559100-5821"
+  },
+  {
+    "name": "Örebro Östra Djursjukhus",
+    "organisationNumber": "559100-8320"
+  },
+  {
+    "name": "Visby Södra Hästklinik",
+    "organisationNumber": "559100-6282"
+  },
+  {
+    "name": "Stockholm City Veterinärcenter",
+    "organisationNumber": "559100-4766"
+  },
+  {
+    "name": "Västerås Östra Hästklinik",
+    "organisationNumber": "559100-9385"
+  },
+  {
+    "name": "Malmö Norra Djursjukhus",
+    "organisationNumber": "559100-1127"
+  },
+  {
+    "name": "Västerås Norra Djursjukhus",
+    "organisationNumber": "559100-9120"
+  },
+  {
+    "name": "Uppsala City Djurklinik",
+    "organisationNumber": "559100-3701"
+  },
+  {
+    "name": "Örebro Park Hästklinik",
+    "organisationNumber": "559100-8684"
+  },
+  {
+    "name": "Åre Västra Djursjukhus",
+    "organisationNumber": "559100-0426"
+  },
+  {
+    "name": "Visby Centrum Djurvård",
+    "organisationNumber": "559100-6035"
+  },
+  {
+    "name": "Visby Park Djurvård",
+    "organisationNumber": "559100-6639"
+  },
+  {
+    "name": "Visby Norra Veterinärmottagning",
+    "organisationNumber": "559100-6142"
+  },
+  {
+    "name": "Åre Höjd Veterinärmottagning",
+    "organisationNumber": "559100-0947"
+  },
+  {
+    "name": "Stockholm Västra Djursjukhus",
+    "organisationNumber": "559100-4428"
+  },
+  {
+    "name": "Kiruna Norra Hästklinik",
+    "organisationNumber": "559100-5185"
+  },
+  {
+    "name": "Göteborg City Veterinärmottagning",
+    "organisationNumber": "559100-2745"
+  },
+  {
+    "name": "Västerås Centrum Djurcenter",
+    "organisationNumber": "559100-9054"
+  },
+  {
+    "name": "Västerås Strand Djurcenter",
+    "organisationNumber": "559100-9559"
+  },
+  {
+    "name": "Åre Norra Djursjukhus",
+    "organisationNumber": "559100-0129"
+  },
+  {
+    "name": "Malmö Park Smådjursklinik",
+    "organisationNumber": "559100-1671"
+  },
+  {
+    "name": "Göteborg Västra Veterinärcenter",
+    "organisationNumber": "559100-2463"
+  },
+  {
+    "name": "Uppsala Dal Veterinärcenter",
+    "organisationNumber": "559100-3867"
+  },
+  {
+    "name": "Göteborg Södra Djurklinik",
+    "organisationNumber": "559100-2208"
+  },
+  {
+    "name": "Stockholm Dal Djursjukhus",
+    "organisationNumber": "559100-4824"
+  },
+  {
+    "name": "Lund Södra Djurklinik",
+    "organisationNumber": "559100-7207"
+  },
+  {
+    "name": "Visby Norra Veterinärcenter",
+    "organisationNumber": "559100-6167"
+  },
+  {
+    "name": "Åre City Djurhälsa",
+    "organisationNumber": "559100-0798"
+  },
+  {
+    "name": "Göteborg Centrum Djurklinik",
+    "organisationNumber": "559100-2000"
+  },
+  {
+    "name": "Åre Höjd Djursjukhus",
+    "organisationNumber": "559100-0921"
+  },
+  {
+    "name": "Göteborg Östra Djursjukhus",
+    "organisationNumber": "559100-2323"
+  },
+  {
+    "name": "Åre Park Djurklinik",
+    "organisationNumber": "559100-0608"
+  },
+  {
+    "name": "Malmö Höjd Djurhälsa",
+    "organisationNumber": "559100-1994"
+  },
+  {
+    "name": "Malmö Strand Veterinärmottagning",
+    "organisationNumber": "559100-1549"
+  },
+  {
+    "name": "Stockholm Strand Djurklinik",
+    "organisationNumber": "559100-4501"
+  },
+  {
+    "name": "Åre Norra Veterinärmottagning",
+    "organisationNumber": "559100-0145"
+  },
+  {
+    "name": "Örebro Norra Veterinärcenter",
+    "organisationNumber": "559100-8163"
+  },
+  {
+    "name": "Kiruna Norra Djursjukhus",
+    "organisationNumber": "559100-5128"
+  },
+  {
+    "name": "Stockholm City Hästklinik",
+    "organisationNumber": "559100-4782"
+  },
+  {
+    "name": "Kiruna Västra Veterinärcenter",
+    "organisationNumber": "559100-5466"
+  },
+  {
+    "name": "Malmö Östra Smådjursklinik",
+    "organisationNumber": "559100-1374"
+  },
+  {
+    "name": "Örebro Södra Veterinärmottagning",
+    "organisationNumber": "559100-8247"
+  },
+  {
+    "name": "Göteborg Östra Djurhälsa",
+    "organisationNumber": "559100-2398"
+  },
+  {
+    "name": "Göteborg Park Djursjukhus",
+    "organisationNumber": "559100-2620"
+  },
+  {
+    "name": "Örebro Östra Veterinärmottagning",
+    "organisationNumber": "559100-8346"
+  },
+  {
+    "name": "Malmö City Djursjukhus",
+    "organisationNumber": "559100-1721"
+  },
+  {
+    "name": "Västerås Västra Djursjukhus",
+    "organisationNumber": "559100-9427"
+  },
+  {
+    "name": "Malmö Strand Djurklinik",
+    "organisationNumber": "559100-1507"
+  },
+  {
+    "name": "Örebro Centrum Djursjukhus",
+    "organisationNumber": "559100-8023"
+  },
+  {
+    "name": "Malmö Höjd Djurklinik",
+    "organisationNumber": "559100-1903"
+  },
+  {
+    "name": "Lund Västra Djurhälsa",
+    "organisationNumber": "559100-7496"
+  },
+  {
+    "name": "Stockholm Västra Veterinärmottagning",
+    "organisationNumber": "559100-4444"
+  },
+  {
+    "name": "Uppsala Strand Veterinärcenter",
+    "organisationNumber": "559100-3560"
+  },
+  {
+    "name": "Stockholm Strand Djursjukhus",
+    "organisationNumber": "559100-4527"
+  },
+  {
+    "name": "Göteborg Höjd Djurklinik",
+    "organisationNumber": "559100-2901"
+  },
+  {
+    "name": "Åre Park Veterinärcenter",
+    "organisationNumber": "559100-0665"
+  },
+  {
+    "name": "Visby Dal Djurhälsa",
+    "organisationNumber": "559100-6894"
+  },
+  {
+    "name": "Visby Strand Djursjukhus",
+    "organisationNumber": "559100-6522"
+  },
+  {
+    "name": "Kiruna Centrum Veterinärklinik",
+    "organisationNumber": "559100-5011"
+  },
+  {
+    "name": "Kiruna Park Hästklinik",
+    "organisationNumber": "559100-5680"
+  },
+  {
+    "name": "Stockholm City Djurklinik",
+    "organisationNumber": "559100-4709"
+  },
+  {
+    "name": "Malmö Västra Hästklinik",
+    "organisationNumber": "559100-1481"
+  },
+  {
+    "name": "Göteborg Östra Djurcenter",
+    "organisationNumber": "559100-2356"
+  },
+  {
+    "name": "Malmö City Hästklinik",
+    "organisationNumber": "559100-1788"
+  },
+  {
+    "name": "Västerås City Smådjursklinik",
+    "organisationNumber": "559100-9773"
+  },
+  {
+    "name": "Uppsala Södra Djursjukhus",
+    "organisationNumber": "559100-3222"
+  },
+  {
+    "name": "Uppsala Södra Veterinärmottagning",
+    "organisationNumber": "559100-3248"
+  },
+  {
+    "name": "Malmö Centrum Hästklinik",
+    "organisationNumber": "559100-1085"
+  },
+  {
+    "name": "Lund Norra Djurklinik",
+    "organisationNumber": "559100-7108"
+  },
+  {
+    "name": "Göteborg Strand Veterinärmottagning",
+    "organisationNumber": "559100-2547"
+  },
+  {
+    "name": "Göteborg Park Veterinärcenter",
+    "organisationNumber": "559100-2661"
+  },
+  {
+    "name": "Kiruna Strand Hästklinik",
+    "organisationNumber": "559100-5581"
+  },
+  {
+    "name": "Kiruna Strand Djurcenter",
+    "organisationNumber": "559100-5557"
+  },
+  {
+    "name": "Uppsala Västra Hästklinik",
+    "organisationNumber": "559100-3487"
+  },
+  {
+    "name": "Göteborg Höjd Djursjukhus",
+    "organisationNumber": "559100-2927"
+  },
+  {
+    "name": "Visby Dal Veterinärcenter",
+    "organisationNumber": "559100-6860"
+  },
+  {
+    "name": "Göteborg City Veterinärcenter",
+    "organisationNumber": "559100-2760"
+  },
+  {
+    "name": "Lund Östra Smådjursklinik",
+    "organisationNumber": "559100-7371"
+  },
+  {
+    "name": "Göteborg Västra Hästklinik",
+    "organisationNumber": "559100-2489"
+  },
+  {
+    "name": "Åre Park Djurvård",
+    "organisationNumber": "559100-0632"
+  },
+  {
+    "name": "Uppsala Centrum Smådjursklinik",
+    "organisationNumber": "559100-3073"
+  },
+  {
+    "name": "Göteborg Norra Djursjukhus",
+    "organisationNumber": "559100-2125"
+  },
+  {
+    "name": "Stockholm Västra Djurhälsa",
+    "organisationNumber": "559100-4493"
+  },
+  {
+    "name": "Lund Höjd Djurhälsa",
+    "organisationNumber": "559100-7991"
+  },
+  {
+    "name": "Kiruna Dal Veterinärcenter",
+    "organisationNumber": "559100-5862"
+  },
+  {
+    "name": "Malmö Östra Veterinärklinik",
+    "organisationNumber": "559100-1317"
+  },
+  {
+    "name": "Åre Norra Djurhälsa",
+    "organisationNumber": "559100-0194"
+  },
+  {
+    "name": "Åre City Djursjukhus",
+    "organisationNumber": "559100-0723"
+  },
+  {
+    "name": "Göteborg Norra Djurcenter",
+    "organisationNumber": "559100-2158"
+  },
+  {
+    "name": "Lund Norra Djursjukhus",
+    "organisationNumber": "559100-7124"
+  },
+  {
+    "name": "Örebro Strand Veterinärmottagning",
+    "organisationNumber": "559100-8544"
+  },
+  {
+    "name": "Göteborg Strand Djursjukhus",
+    "organisationNumber": "559100-2521"
+  },
+  {
+    "name": "Uppsala Dal Djurvård",
+    "organisationNumber": "559100-3834"
+  },
+  {
+    "name": "Lund Dal Veterinärcenter",
+    "organisationNumber": "559100-7868"
+  },
+  {
+    "name": "Göteborg Strand Djurcenter",
+    "organisationNumber": "559100-2554"
+  },
+  {
+    "name": "Stockholm Västra Smådjursklinik",
+    "organisationNumber": "559100-4477"
+  },
+  {
+    "name": "Stockholm Strand Veterinärcenter",
+    "organisationNumber": "559100-4568"
+  },
+  {
+    "name": "Göteborg Dal Hästklinik",
+    "organisationNumber": "559100-2885"
+  },
+  {
+    "name": "Visby City Djurklinik",
+    "organisationNumber": "559100-6704"
+  },
+  {
+    "name": "Stockholm Norra Djurklinik",
+    "organisationNumber": "559100-4105"
+  },
+  {
+    "name": "Örebro Dal Veterinärcenter",
+    "organisationNumber": "559100-8866"
+  },
+  {
+    "name": "Uppsala City Veterinärmottagning",
+    "organisationNumber": "559100-3743"
+  },
+  {
+    "name": "Åre City Djurvård",
+    "organisationNumber": "559100-0731"
+  },
+  {
+    "name": "Uppsala Östra Djurklinik",
+    "organisationNumber": "559100-3305"
+  },
+  {
+    "name": "Örebro Västra Veterinärklinik",
+    "organisationNumber": "559100-8411"
+  },
+  {
+    "name": "Åre Dal Veterinärmottagning",
+    "organisationNumber": "559100-0848"
+  },
+  {
+    "name": "Stockholm Södra Veterinärmottagning",
+    "organisationNumber": "559100-4246"
+  },
+  {
+    "name": "Åre Södra Djursjukhus",
+    "organisationNumber": "559100-0228"
+  },
+  {
+    "name": "Västerås Park Veterinärmottagning",
+    "organisationNumber": "559100-9641"
+  },
+  {
+    "name": "Göteborg Höjd Veterinärmottagning",
+    "organisationNumber": "559100-2943"
+  },
+  {
+    "name": "Stockholm Dal Djurvård",
+    "organisationNumber": "559100-4832"
+  },
+  {
+    "name": "Stockholm Höjd Veterinärcenter",
+    "organisationNumber": "559100-4964"
+  },
+  {
+    "name": "Örebro Dal Djurhälsa",
+    "organisationNumber": "559100-8890"
+  },
+  {
+    "name": "Stockholm Centrum Veterinärcenter",
+    "organisationNumber": "559100-4063"
+  },
+  {
+    "name": "Åre Centrum Djurvård",
+    "organisationNumber": "559100-0038"
+  },
+  {
+    "name": "Stockholm Höjd Djurklinik",
+    "organisationNumber": "559100-4907"
+  },
+  {
+    "name": "Stockholm Östra Hästklinik",
+    "organisationNumber": "559100-4386"
+  },
+  {
+    "name": "Malmö Dal Veterinärcenter",
+    "organisationNumber": "559100-1861"
+  },
+  {
+    "name": "Visby City Veterinärcenter",
+    "organisationNumber": "559100-6761"
+  },
+  {
+    "name": "Malmö Södra Djurklinik",
+    "organisationNumber": "559100-1200"
+  },
+  {
+    "name": "Göteborg Dal Veterinärklinik",
+    "organisationNumber": "559100-2810"
+  },
+  {
+    "name": "Uppsala Park Hästklinik",
+    "organisationNumber": "559100-3685"
+  },
+  {
+    "name": "Stockholm Strand Veterinärklinik",
+    "organisationNumber": "559100-4519"
+  },
+  {
+    "name": "Västerås Östra Veterinärcenter",
+    "organisationNumber": "559100-9369"
+  },
+  {
+    "name": "Stockholm Höjd Djurcenter",
+    "organisationNumber": "559100-4956"
+  },
+  {
+    "name": "Visby Höjd Veterinärmottagning",
+    "organisationNumber": "559100-6944"
+  },
+  {
+    "name": "Västerås Centrum Veterinärmottagning",
+    "organisationNumber": "559100-9047"
+  },
+  {
+    "name": "Stockholm Norra Veterinärmottagning",
+    "organisationNumber": "559100-4147"
+  },
+  {
+    "name": "Kiruna Park Djurklinik",
+    "organisationNumber": "559100-5607"
+  },
+  {
+    "name": "Göteborg Centrum Veterinärcenter",
+    "organisationNumber": "559100-2067"
+  },
+  {
+    "name": "Kiruna Norra Veterinärmottagning",
+    "organisationNumber": "559100-5144"
+  },
+  {
+    "name": "Västerås Strand Veterinärmottagning",
+    "organisationNumber": "559100-9542"
+  },
+  {
+    "name": "Uppsala Höjd Djurklinik",
+    "organisationNumber": "559100-3909"
+  },
+  {
+    "name": "Örebro City Djursjukhus",
+    "organisationNumber": "559100-8726"
+  },
+  {
+    "name": "Göteborg Höjd Veterinärklinik",
+    "organisationNumber": "559100-2919"
+  },
+  {
+    "name": "Malmö Västra Veterinärmottagning",
+    "organisationNumber": "559100-1440"
+  },
+  {
+    "name": "Malmö Park Djurcenter",
+    "organisationNumber": "559100-1655"
+  },
+  {
+    "name": "Åre Östra Veterinärmottagning",
+    "organisationNumber": "559100-0343"
+  },
+  {
+    "name": "Stockholm Centrum Djurvård",
+    "organisationNumber": "559100-4030"
+  },
+  {
+    "name": "Åre Park Veterinärmottagning",
+    "organisationNumber": "559100-0640"
+  },
+  {
+    "name": "Göteborg City Djursjukhus",
+    "organisationNumber": "559100-2729"
+  },
+  {
+    "name": "Västerås Västra Djurklinik",
+    "organisationNumber": "559100-9401"
+  },
+  {
+    "name": "Västerås Östra Veterinärklinik",
+    "organisationNumber": "559100-9310"
+  },
+  {
+    "name": "Lund City Hästklinik",
+    "organisationNumber": "559100-7785"
+  },
+  {
+    "name": "Visby Strand Veterinärklinik",
+    "organisationNumber": "559100-6514"
+  },
+  {
+    "name": "Åre Östra Djurklinik",
+    "organisationNumber": "559100-0301"
+  },
+  {
+    "name": "Lund Södra Djurhälsa",
+    "organisationNumber": "559100-7298"
+  },
+  {
+    "name": "Kiruna Dal Djurklinik",
+    "organisationNumber": "559100-5805"
+  },
+  {
+    "name": "Örebro Dal Djurklinik",
+    "organisationNumber": "559100-8809"
+  },
+  {
+    "name": "Lund Norra Veterinärcenter",
+    "organisationNumber": "559100-7165"
+  },
+  {
+    "name": "Åre Östra Veterinärklinik",
+    "organisationNumber": "559100-0319"
+  },
+  {
+    "name": "Göteborg Norra Djurhälsa",
+    "organisationNumber": "559100-2190"
+  },
+  {
+    "name": "Västerås Strand Djurvård",
+    "organisationNumber": "559100-9534"
+  },
+  {
+    "name": "Lund Västra Veterinärmottagning",
+    "organisationNumber": "559100-7447"
+  },
+  {
+    "name": "Kiruna Östra Veterinärcenter",
+    "organisationNumber": "559100-5367"
+  },
+  {
+    "name": "Lund Södra Djursjukhus",
+    "organisationNumber": "559100-7223"
+  },
+  {
+    "name": "Örebro Strand Smådjursklinik",
+    "organisationNumber": "559100-8577"
+  },
+  {
+    "name": "Åre Norra Hästklinik",
+    "organisationNumber": "559100-0186"
+  },
+  {
+    "name": "Visby Dal Smådjursklinik",
+    "organisationNumber": "559100-6878"
+  },
+  {
+    "name": "Örebro Västra Djurklinik",
+    "organisationNumber": "559100-8403"
+  },
+  {
+    "name": "Västerås Dal Veterinärmottagning",
+    "organisationNumber": "559100-9849"
+  },
+  {
+    "name": "Göteborg Västra Smådjursklinik",
+    "organisationNumber": "559100-2471"
+  },
+  {
+    "name": "Lund Dal Hästklinik",
+    "organisationNumber": "559100-7884"
+  },
+  {
+    "name": "Åre Strand Veterinärcenter",
+    "organisationNumber": "559100-0566"
+  },
+  {
+    "name": "Uppsala City Djurcenter",
+    "organisationNumber": "559100-3750"
+  },
+  {
+    "name": "Uppsala Dal Veterinärmottagning",
+    "organisationNumber": "559100-3842"
+  },
+  {
+    "name": "Kiruna Dal Djurvård",
+    "organisationNumber": "559100-5839"
+  },
+  {
+    "name": "Uppsala Centrum Djurvård",
+    "organisationNumber": "559100-3032"
+  },
+  {
+    "name": "Lund Park Djurvård",
+    "organisationNumber": "559100-7637"
+  },
+  {
+    "name": "Lund Dal Djursjukhus",
+    "organisationNumber": "559100-7827"
+  },
+  {
+    "name": "Visby Park Hästklinik",
+    "organisationNumber": "559100-6688"
+  },
+  {
+    "name": "Stockholm Centrum Hästklinik",
+    "organisationNumber": "559100-4089"
+  },
+  {
+    "name": "Stockholm Park Djurcenter",
+    "organisationNumber": "559100-4659"
+  },
+  {
+    "name": "Göteborg Park Veterinärmottagning",
+    "organisationNumber": "559100-2646"
+  },
+  {
+    "name": "Kiruna Östra Smådjursklinik",
+    "organisationNumber": "559100-5375"
+  },
+  {
+    "name": "Uppsala Park Veterinärmottagning",
+    "organisationNumber": "559100-3644"
+  },
+  {
+    "name": "Stockholm Östra Djurvård",
+    "organisationNumber": "559100-4337"
+  },
+  {
+    "name": "Malmö Västra Djursjukhus",
+    "organisationNumber": "559100-1424"
+  },
+  {
+    "name": "Kiruna Centrum Djurcenter",
+    "organisationNumber": "559100-5052"
+  },
+  {
+    "name": "Västerås Strand Hästklinik",
+    "organisationNumber": "559100-9583"
+  },
+  {
+    "name": "Lund Östra Veterinärcenter",
+    "organisationNumber": "559100-7363"
+  },
+  {
+    "name": "Uppsala Centrum Djursjukhus",
+    "organisationNumber": "559100-3024"
+  },
+  {
+    "name": "Stockholm Höjd Djursjukhus",
+    "organisationNumber": "559100-4923"
+  },
+  {
+    "name": "Kiruna Höjd Veterinärmottagning",
+    "organisationNumber": "559100-5946"
+  },
+  {
+    "name": "Visby Östra Veterinärcenter",
+    "organisationNumber": "559100-6365"
+  },
+  {
+    "name": "Göteborg Dal Veterinärmottagning",
+    "organisationNumber": "559100-2844"
+  },
+  {
+    "name": "Västerås Norra Djurklinik",
+    "organisationNumber": "559100-9104"
+  },
+  {
+    "name": "Visby City Hästklinik",
+    "organisationNumber": "559100-6787"
+  },
+  {
+    "name": "Västerås Höjd Djurvård",
+    "organisationNumber": "559100-9930"
+  },
+  {
+    "name": "Lund City Veterinärklinik",
+    "organisationNumber": "559100-7710"
+  },
+  {
+    "name": "Åre Strand Djurhälsa",
+    "organisationNumber": "559100-0590"
+  },
+  {
+    "name": "Åre Östra Djurcenter",
+    "organisationNumber": "559100-0350"
+  },
+  {
+    "name": "Åre Östra Smådjursklinik",
+    "organisationNumber": "559100-0376"
+  },
+  {
+    "name": "Uppsala Södra Veterinärcenter",
+    "organisationNumber": "559100-3263"
+  },
+  {
+    "name": "Västerås Södra Djurcenter",
+    "organisationNumber": "559100-9252"
+  },
+  {
+    "name": "Västerås Dal Veterinärcenter",
+    "organisationNumber": "559100-9864"
+  },
+  {
+    "name": "Visby Dal Djurklinik",
+    "organisationNumber": "559100-6803"
+  },
+  {
+    "name": "Malmö City Veterinärmottagning",
+    "organisationNumber": "559100-1747"
+  },
+  {
+    "name": "Visby Norra Veterinärklinik",
+    "organisationNumber": "559100-6118"
+  },
+  {
+    "name": "Västerås Östra Djurcenter",
+    "organisationNumber": "559100-9351"
+  },
+  {
+    "name": "Visby Park Veterinärcenter",
+    "organisationNumber": "559100-6662"
+  },
+  {
+    "name": "Uppsala Östra Veterinärmottagning",
+    "organisationNumber": "559100-3347"
+  },
+  {
+    "name": "Göteborg Dal Djurvård",
+    "organisationNumber": "559100-2836"
+  },
+  {
+    "name": "Åre City Veterinärcenter",
+    "organisationNumber": "559100-0764"
+  },
+  {
+    "name": "Örebro Västra Djurhälsa",
+    "organisationNumber": "559100-8494"
+  },
+  {
+    "name": "Stockholm Norra Djursjukhus",
+    "organisationNumber": "559100-4121"
+  },
+  {
+    "name": "Örebro Östra Smådjursklinik",
+    "organisationNumber": "559100-8379"
+  },
+  {
+    "name": "Västerås Dal Djursjukhus",
+    "organisationNumber": "559100-9823"
+  },
+  {
+    "name": "Kiruna Norra Smådjursklinik",
+    "organisationNumber": "559100-5177"
+  },
+  {
+    "name": "Åre Strand Djurklinik",
+    "organisationNumber": "559100-0509"
+  },
+  {
+    "name": "Västerås Strand Veterinärcenter",
+    "organisationNumber": "559100-9567"
+  },
+  {
+    "name": "Malmö Strand Veterinärklinik",
+    "organisationNumber": "559100-1515"
+  },
+  {
+    "name": "Stockholm Norra Smådjursklinik",
+    "organisationNumber": "559100-4170"
+  },
+  {
+    "name": "Örebro Södra Veterinärklinik",
+    "organisationNumber": "559100-8213"
+  },
+  {
+    "name": "Örebro Park Smådjursklinik",
+    "organisationNumber": "559100-8676"
+  },
+  {
+    "name": "Göteborg Centrum Djursjukhus",
+    "organisationNumber": "559100-2026"
+  },
+  {
+    "name": "Uppsala Strand Djursjukhus",
+    "organisationNumber": "559100-3529"
+  },
+  {
+    "name": "Uppsala Östra Veterinärklinik",
+    "organisationNumber": "559100-3313"
+  },
+  {
+    "name": "Västerås Centrum Veterinärklinik",
+    "organisationNumber": "559100-9013"
+  },
+  {
+    "name": "Göteborg Östra Veterinärmottagning",
+    "organisationNumber": "559100-2349"
+  },
+  {
+    "name": "Västerås Höjd Veterinärcenter",
+    "organisationNumber": "559100-9963"
+  },
+  {
+    "name": "Lund Östra Djurvård",
+    "organisationNumber": "559100-7330"
+  },
+  {
+    "name": "Kiruna Östra Djurvård",
+    "organisationNumber": "559100-5334"
+  },
+  {
+    "name": "Västerås Centrum Djursjukhus",
+    "organisationNumber": "559100-9021"
+  },
+  {
+    "name": "Malmö Park Veterinärklinik",
+    "organisationNumber": "559100-1614"
+  },
+  {
+    "name": "Malmö Norra Hästklinik",
+    "organisationNumber": "559100-1184"
+  },
+  {
+    "name": "Uppsala Park Veterinärcenter",
+    "organisationNumber": "559100-3669"
+  },
+  {
+    "name": "Uppsala Norra Veterinärcenter",
+    "organisationNumber": "559100-3164"
+  },
+  {
+    "name": "Uppsala Höjd Djursjukhus",
+    "organisationNumber": "559100-3925"
+  },
+  {
+    "name": "Stockholm Park Djurklinik",
+    "organisationNumber": "559100-4600"
+  },
+  {
+    "name": "Örebro Södra Veterinärcenter",
+    "organisationNumber": "559100-8262"
+  },
+  {
+    "name": "Åre Södra Djurklinik",
+    "organisationNumber": "559100-0202"
+  },
+  {
+    "name": "Visby Centrum Djurklinik",
+    "organisationNumber": "559100-6001"
+  },
+  {
+    "name": "Malmö Höjd Djursjukhus",
+    "organisationNumber": "559100-1929"
+  },
+  {
+    "name": "Örebro Södra Hästklinik",
+    "organisationNumber": "559100-8288"
+  },
+  {
+    "name": "Malmö Västra Djurcenter",
+    "organisationNumber": "559100-1457"
+  },
+  {
+    "name": "Kiruna City Veterinärmottagning",
+    "organisationNumber": "559100-5748"
+  },
+  {
+    "name": "Åre Dal Smådjursklinik",
+    "organisationNumber": "559100-0871"
+  },
+  {
+    "name": "Stockholm Norra Djurcenter",
+    "organisationNumber": "559100-4154"
+  },
+  {
+    "name": "Stockholm Höjd Djurvård",
+    "organisationNumber": "559100-4931"
+  },
+  {
+    "name": "Visby Strand Hästklinik",
+    "organisationNumber": "559100-6589"
+  },
+  {
+    "name": "Stockholm Strand Djurhälsa",
+    "organisationNumber": "559100-4592"
+  },
+  {
+    "name": "Kiruna Strand Veterinärcenter",
+    "organisationNumber": "559100-5565"
+  },
+  {
+    "name": "Stockholm Park Veterinärmottagning",
+    "organisationNumber": "559100-4642"
+  },
+  {
+    "name": "Visby Västra Veterinärklinik",
+    "organisationNumber": "559100-6415"
+  },
+  {
+    "name": "Åre Östra Djurhälsa",
+    "organisationNumber": "559100-0392"
+  },
+  {
+    "name": "Örebro City Veterinärcenter",
+    "organisationNumber": "559100-8767"
+  },
+  {
+    "name": "Göteborg Dal Veterinärcenter",
+    "organisationNumber": "559100-2869"
+  },
+  {
+    "name": "Malmö Park Djurhälsa",
+    "organisationNumber": "559100-1697"
+  },
+  {
+    "name": "Åre Södra Hästklinik",
+    "organisationNumber": "559100-0285"
+  },
+  {
+    "name": "Västerås Södra Hästklinik",
+    "organisationNumber": "559100-9286"
+  },
+  {
+    "name": "Åre Västra Veterinärcenter",
+    "organisationNumber": "559100-0467"
+  },
+  {
+    "name": "Västerås Östra Djursjukhus",
+    "organisationNumber": "559100-9328"
+  },
+  {
+    "name": "Kiruna Östra Djurklinik",
+    "organisationNumber": "559100-5300"
+  },
+  {
+    "name": "Malmö Norra Djurcenter",
+    "organisationNumber": "559100-1150"
+  },
+  {
+    "name": "Visby Strand Veterinärmottagning",
+    "organisationNumber": "559100-6548"
+  },
+  {
+    "name": "Visby City Djurhälsa",
+    "organisationNumber": "559100-6795"
+  },
+  {
+    "name": "Visby Norra Djurklinik",
+    "organisationNumber": "559100-6100"
+  },
+  {
+    "name": "Åre Norra Djurcenter",
+    "organisationNumber": "559100-0152"
+  },
+  {
+    "name": "Lund Höjd Djurcenter",
+    "organisationNumber": "559100-7959"
+  },
+  {
+    "name": "Örebro Södra Djurklinik",
+    "organisationNumber": "559100-8205"
+  },
+  {
+    "name": "Uppsala Centrum Hästklinik",
+    "organisationNumber": "559100-3081"
+  },
+  {
+    "name": "Västerås City Djursjukhus",
+    "organisationNumber": "559100-9724"
+  },
+  {
+    "name": "Malmö Dal Djurvård",
+    "organisationNumber": "559100-1838"
+  },
+  {
+    "name": "Uppsala Höjd Veterinärklinik",
+    "organisationNumber": "559100-3917"
+  },
+  {
+    "name": "Kiruna Centrum Djurklinik",
+    "organisationNumber": "559100-5003"
+  },
+  {
+    "name": "Kiruna City Veterinärklinik",
+    "organisationNumber": "559100-5714"
+  },
+  {
+    "name": "Uppsala Södra Hästklinik",
+    "organisationNumber": "559100-3289"
+  },
+  {
+    "name": "Visby Södra Djurklinik",
+    "organisationNumber": "559100-6209"
+  },
+  {
+    "name": "Stockholm Centrum Veterinärmottagning",
+    "organisationNumber": "559100-4048"
+  },
+  {
+    "name": "Stockholm Södra Djurcenter",
+    "organisationNumber": "559100-4253"
+  },
+  {
+    "name": "Lund City Veterinärmottagning",
+    "organisationNumber": "559100-7744"
+  },
+  {
+    "name": "Stockholm Östra Veterinärklinik",
+    "organisationNumber": "559100-4311"
+  },
+  {
+    "name": "Västerås Västra Veterinärmottagning",
+    "organisationNumber": "559100-9443"
+  },
+  {
+    "name": "Lund Park Hästklinik",
+    "organisationNumber": "559100-7686"
+  },
+  {
+    "name": "Örebro Östra Djurklinik",
+    "organisationNumber": "559100-8304"
+  },
+  {
+    "name": "Visby Östra Veterinärmottagning",
+    "organisationNumber": "559100-6340"
+  },
+  {
+    "name": "Örebro Park Djursjukhus",
+    "organisationNumber": "559100-8627"
+  },
+  {
+    "name": "Visby Centrum Djurcenter",
+    "organisationNumber": "559100-6050"
+  },
+  {
+    "name": "Malmö Centrum Veterinärmottagning",
+    "organisationNumber": "559100-1044"
+  },
+  {
+    "name": "Kiruna Södra Djurvård",
+    "organisationNumber": "559100-5235"
+  },
+  {
+    "name": "Visby Östra Djurhälsa",
+    "organisationNumber": "559100-6399"
+  },
+  {
+    "name": "Visby Norra Hästklinik",
+    "organisationNumber": "559100-6183"
+  },
+  {
+    "name": "Visby Park Djurklinik",
+    "organisationNumber": "559100-6605"
+  },
+  {
+    "name": "Stockholm Höjd Djurhälsa",
+    "organisationNumber": "559100-4998"
+  },
+  {
+    "name": "Stockholm Centrum Djurklinik",
+    "organisationNumber": "559100-4006"
+  },
+  {
+    "name": "Malmö Centrum Djurvård",
+    "organisationNumber": "559100-1036"
+  },
+  {
+    "name": "Göteborg City Veterinärklinik",
+    "organisationNumber": "559100-2711"
+  },
+  {
+    "name": "Malmö Centrum Veterinärklinik",
+    "organisationNumber": "559100-1010"
+  },
+  {
+    "name": "Göteborg Höjd Hästklinik",
+    "organisationNumber": "559100-2984"
+  },
+  {
+    "name": "Åre Dal Djurcenter",
+    "organisationNumber": "559100-0855"
+  },
+  {
+    "name": "Malmö Höjd Hästklinik",
+    "organisationNumber": "559100-1986"
+  },
+  {
+    "name": "Stockholm Södra Veterinärcenter",
+    "organisationNumber": "559100-4261"
+  },
+  {
+    "name": "Visby Strand Djurcenter",
+    "organisationNumber": "559100-6555"
+  },
+  {
+    "name": "Uppsala Strand Veterinärklinik",
+    "organisationNumber": "559100-3511"
+  },
+  {
+    "name": "Visby City Veterinärklinik",
+    "organisationNumber": "559100-6712"
+  },
+  {
+    "name": "Uppsala Västra Djurcenter",
+    "organisationNumber": "559100-3453"
+  },
+  {
+    "name": "Kiruna Östra Djursjukhus",
+    "organisationNumber": "559100-5326"
+  },
+  {
+    "name": "Åre Södra Veterinärklinik",
+    "organisationNumber": "559100-0210"
+  },
+  {
+    "name": "Åre Västra Smådjursklinik",
+    "organisationNumber": "559100-0475"
+  },
+  {
+    "name": "Lund Höjd Smådjursklinik",
+    "organisationNumber": "559100-7975"
+  },
+  {
+    "name": "Uppsala Norra Veterinärmottagning",
+    "organisationNumber": "559100-3149"
+  },
+  {
+    "name": "Kiruna Park Veterinärmottagning",
+    "organisationNumber": "559100-5649"
+  },
+  {
+    "name": "Örebro Strand Djurhälsa",
+    "organisationNumber": "559100-8593"
+  },
+  {
+    "name": "Lund City Veterinärcenter",
+    "organisationNumber": "559100-7769"
+  },
+  {
+    "name": "Åre Dal Veterinärklinik",
+    "organisationNumber": "559100-0814"
+  },
+  {
+    "name": "Kiruna Centrum Hästklinik",
+    "organisationNumber": "559100-5086"
+  },
+  {
+    "name": "Kiruna Östra Veterinärmottagning",
+    "organisationNumber": "559100-5342"
+  },
+  {
+    "name": "Västerås Västra Veterinärklinik",
+    "organisationNumber": "559100-9419"
+  },
+  {
+    "name": "Malmö Norra Veterinärcenter",
+    "organisationNumber": "559100-1168"
+  },
+  {
+    "name": "Stockholm Östra Djurcenter",
+    "organisationNumber": "559100-4352"
+  },
+  {
+    "name": "Göteborg Strand Veterinärcenter",
+    "organisationNumber": "559100-2562"
+  },
+  {
+    "name": "Stockholm City Djursjukhus",
+    "organisationNumber": "559100-4725"
+  },
+  {
+    "name": "Stockholm Dal Djurhälsa",
+    "organisationNumber": "559100-4899"
+  },
+  {
+    "name": "Uppsala Norra Veterinärklinik",
+    "organisationNumber": "559100-3115"
+  },
+  {
+    "name": "Kiruna Strand Djursjukhus",
+    "organisationNumber": "559100-5524"
+  },
+  {
+    "name": "Göteborg City Smådjursklinik",
+    "organisationNumber": "559100-2778"
+  },
+  {
+    "name": "Västerås Norra Veterinärcenter",
+    "organisationNumber": "559100-9161"
+  },
+  {
+    "name": "Västerås Höjd Djurcenter",
+    "organisationNumber": "559100-9955"
+  },
+  {
+    "name": "Lund Park Smådjursklinik",
+    "organisationNumber": "559100-7678"
+  },
+  {
+    "name": "Visby Dal Veterinärmottagning",
+    "organisationNumber": "559100-6845"
+  },
+  {
+    "name": "Uppsala Södra Djurhälsa",
+    "organisationNumber": "559100-3297"
+  },
+  {
+    "name": "Göteborg Strand Djurhälsa",
+    "organisationNumber": "559100-2596"
+  },
+  {
+    "name": "Malmö City Djurklinik",
+    "organisationNumber": "559100-1705"
+  },
+  {
+    "name": "Kiruna City Djurcenter",
+    "organisationNumber": "559100-5755"
+  },
+  {
+    "name": "Malmö Östra Hästklinik",
+    "organisationNumber": "559100-1382"
+  },
+  {
+    "name": "Stockholm City Djurvård",
+    "organisationNumber": "559100-4733"
+  },
+  {
+    "name": "Uppsala Höjd Veterinärcenter",
+    "organisationNumber": "559100-3966"
+  },
+  {
+    "name": "Stockholm Centrum Veterinärklinik",
+    "organisationNumber": "559100-4014"
+  },
+  {
+    "name": "Malmö City Veterinärcenter",
+    "organisationNumber": "559100-1762"
+  },
+  {
+    "name": "Göteborg Norra Smådjursklinik",
+    "organisationNumber": "559100-2174"
+  },
+  {
+    "name": "Uppsala Dal Djurklinik",
+    "organisationNumber": "559100-3800"
+  },
+  {
+    "name": "Västerås Park Djursjukhus",
+    "organisationNumber": "559100-9625"
+  },
+  {
+    "name": "Kiruna Södra Veterinärklinik",
+    "organisationNumber": "559100-5219"
+  },
+  {
+    "name": "Lund City Djurhälsa",
+    "organisationNumber": "559100-7793"
+  },
+  {
+    "name": "Malmö Västra Djurklinik",
+    "organisationNumber": "559100-1408"
+  },
+  {
+    "name": "Kiruna Södra Smådjursklinik",
+    "organisationNumber": "559100-5276"
+  },
+  {
+    "name": "Uppsala Östra Smådjursklinik",
+    "organisationNumber": "559100-3370"
+  },
+  {
+    "name": "Stockholm City Djurhälsa",
+    "organisationNumber": "559100-4790"
+  },
+  {
+    "name": "Västerås Norra Hästklinik",
+    "organisationNumber": "559100-9187"
+  },
+  {
+    "name": "Örebro Norra Djurcenter",
+    "organisationNumber": "559100-8155"
+  },
+  {
+    "name": "Visby City Djurvård",
+    "organisationNumber": "559100-6738"
+  },
+  {
+    "name": "Visby Västra Djurcenter",
+    "organisationNumber": "559100-6456"
+  },
+  {
+    "name": "Örebro Norra Veterinärmottagning",
+    "organisationNumber": "559100-8148"
+  },
+  {
+    "name": "Malmö Södra Veterinärklinik",
+    "organisationNumber": "559100-1218"
+  },
+  {
+    "name": "Uppsala Västra Veterinärcenter",
+    "organisationNumber": "559100-3461"
+  },
+  {
+    "name": "Kiruna Park Veterinärcenter",
+    "organisationNumber": "559100-5664"
+  },
+  {
+    "name": "Malmö Dal Smådjursklinik",
+    "organisationNumber": "559100-1879"
+  },
+  {
+    "name": "Kiruna Park Smådjursklinik",
+    "organisationNumber": "559100-5672"
+  },
+  {
+    "name": "Örebro Strand Hästklinik",
+    "organisationNumber": "559100-8585"
+  },
+  {
+    "name": "Lund Dal Djurcenter",
+    "organisationNumber": "559100-7850"
+  },
+  {
+    "name": "Göteborg Västra Djurklinik",
+    "organisationNumber": "559100-2406"
+  },
+  {
+    "name": "Åre Östra Djurvård",
+    "organisationNumber": "559100-0335"
+  },
+  {
+    "name": "Uppsala Norra Djurcenter",
+    "organisationNumber": "559100-3156"
+  },
+  {
+    "name": "Visby Södra Smådjursklinik",
+    "organisationNumber": "559100-6274"
+  },
+  {
+    "name": "Uppsala City Veterinärklinik",
+    "organisationNumber": "559100-3719"
+  },
+  {
+    "name": "Malmö Centrum Djurhälsa",
+    "organisationNumber": "559100-1093"
+  },
+  {
+    "name": "Malmö Norra Djurvård",
+    "organisationNumber": "559100-1135"
+  },
+  {
+    "name": "Åre Dal Djurvård",
+    "organisationNumber": "559100-0830"
+  },
+  {
+    "name": "Uppsala Dal Djursjukhus",
+    "organisationNumber": "559100-3826"
+  },
+  {
+    "name": "Visby Norra Djurvård",
+    "organisationNumber": "559100-6134"
+  },
+  {
+    "name": "Kiruna Höjd Djurcenter",
+    "organisationNumber": "559100-5953"
+  },
+  {
+    "name": "Lund Höjd Djursjukhus",
+    "organisationNumber": "559100-7926"
+  },
+  {
+    "name": "Västerås Dal Djurklinik",
+    "organisationNumber": "559100-9807"
+  },
+  {
+    "name": "Malmö Strand Smådjursklinik",
+    "organisationNumber": "559100-1572"
+  },
+  {
+    "name": "Västerås Park Hästklinik",
+    "organisationNumber": "559100-9682"
+  },
+  {
+    "name": "Göteborg Södra Djurvård",
+    "organisationNumber": "559100-2232"
+  },
+  {
+    "name": "Göteborg Park Hästklinik",
+    "organisationNumber": "559100-2687"
+  },
+  {
+    "name": "Lund Strand Djurcenter",
+    "organisationNumber": "559100-7553"
+  },
+  {
+    "name": "Kiruna Park Djurvård",
+    "organisationNumber": "559100-5631"
+  },
+  {
+    "name": "Visby Höjd Djurvård",
+    "organisationNumber": "559100-6936"
+  },
+  {
+    "name": "Stockholm Södra Djurvård",
+    "organisationNumber": "559100-4238"
+  },
+  {
+    "name": "Kiruna Centrum Smådjursklinik",
+    "organisationNumber": "559100-5078"
+  },
+  {
+    "name": "Visby Östra Hästklinik",
+    "organisationNumber": "559100-6381"
+  },
+  {
+    "name": "Kiruna Dal Hästklinik",
+    "organisationNumber": "559100-5888"
+  },
+  {
+    "name": "Lund City Djursjukhus",
+    "organisationNumber": "559100-7728"
+  },
+  {
+    "name": "Västerås Centrum Djurklinik",
+    "organisationNumber": "559100-9005"
+  },
+  {
+    "name": "Uppsala Västra Djurklinik",
+    "organisationNumber": "559100-3404"
+  },
+  {
+    "name": "Örebro Västra Smådjursklinik",
+    "organisationNumber": "559100-8478"
+  },
+  {
+    "name": "Lund Norra Veterinärmottagning",
+    "organisationNumber": "559100-7140"
+  },
+  {
+    "name": "Stockholm Dal Djurcenter",
+    "organisationNumber": "559100-4857"
+  },
+  {
+    "name": "Åre Västra Djurklinik",
+    "organisationNumber": "559100-0400"
+  },
+  {
+    "name": "Lund Norra Djurhälsa",
+    "organisationNumber": "559100-7199"
+  },
+  {
+    "name": "Visby Västra Veterinärmottagning",
+    "organisationNumber": "559100-6449"
+  },
+  {
+    "name": "Kiruna Västra Smådjursklinik",
+    "organisationNumber": "559100-5474"
+  },
+  {
+    "name": "Åre City Djurcenter",
+    "organisationNumber": "559100-0756"
+  },
+  {
+    "name": "Lund Park Veterinärcenter",
+    "organisationNumber": "559100-7660"
+  },
+  {
+    "name": "Uppsala Västra Veterinärmottagning",
+    "organisationNumber": "559100-3446"
+  },
+  {
+    "name": "Västerås Västra Djurhälsa",
+    "organisationNumber": "559100-9492"
+  },
+  {
+    "name": "Åre Västra Djurvård",
+    "organisationNumber": "559100-0434"
+  },
+  {
+    "name": "Visby Södra Djurhälsa",
+    "organisationNumber": "559100-6290"
+  },
+  {
+    "name": "Västerås Strand Smådjursklinik",
+    "organisationNumber": "559100-9575"
+  },
+  {
+    "name": "Lund Norra Veterinärklinik",
+    "organisationNumber": "559100-7116"
+  },
+  {
+    "name": "Visby Östra Djurcenter",
+    "organisationNumber": "559100-6357"
+  },
+  {
+    "name": "Kiruna Strand Djurklinik",
+    "organisationNumber": "559100-5508"
+  },
+  {
+    "name": "Göteborg Södra Veterinärcenter",
+    "organisationNumber": "559100-2265"
+  },
+  {
+    "name": "Örebro Östra Djurhälsa",
+    "organisationNumber": "559100-8395"
+  },
+  {
+    "name": "Stockholm Dal Veterinärmottagning",
+    "organisationNumber": "559100-4840"
+  },
+  {
+    "name": "Visby City Djursjukhus",
+    "organisationNumber": "559100-6720"
+  },
+  {
+    "name": "Örebro Höjd Djurvård",
+    "organisationNumber": "559100-8932"
+  },
+  {
+    "name": "Västerås Park Djurhälsa",
+    "organisationNumber": "559100-9690"
+  },
+  {
+    "name": "Stockholm Dal Djurklinik",
+    "organisationNumber": "559100-4808"
+  },
+  {
+    "name": "Lund Centrum Djurklinik",
+    "organisationNumber": "559100-7009"
+  },
+  {
+    "name": "Åre Strand Veterinärmottagning",
+    "organisationNumber": "559100-0541"
+  },
+  {
+    "name": "Kiruna City Djursjukhus",
+    "organisationNumber": "559100-5722"
+  },
+  {
+    "name": "Malmö Strand Hästklinik",
+    "organisationNumber": "559100-1580"
+  },
+  {
+    "name": "Stockholm Strand Smådjursklinik",
+    "organisationNumber": "559100-4576"
+  },
+  {
+    "name": "Malmö Strand Djursjukhus",
+    "organisationNumber": "559100-1523"
+  },
+  {
+    "name": "Åre Södra Djurcenter",
+    "organisationNumber": "559100-0251"
+  },
+  {
+    "name": "Örebro Södra Djursjukhus",
+    "organisationNumber": "559100-8221"
+  },
+  {
+    "name": "Uppsala Östra Djurcenter",
+    "organisationNumber": "559100-3354"
+  },
+  {
+    "name": "Örebro Centrum Smådjursklinik",
+    "organisationNumber": "559100-8072"
+  },
+  {
+    "name": "Kiruna Strand Djurhälsa",
+    "organisationNumber": "559100-5599"
+  },
+  {
+    "name": "Visby Strand Smådjursklinik",
+    "organisationNumber": "559100-6571"
+  },
+  {
+    "name": "Göteborg Park Djurvård",
+    "organisationNumber": "559100-2638"
+  },
+  {
+    "name": "Visby Park Djursjukhus",
+    "organisationNumber": "559100-6621"
+  },
+  {
+    "name": "Örebro Strand Djurklinik",
+    "organisationNumber": "559100-8502"
+  },
+  {
+    "name": "Västerås Höjd Hästklinik",
+    "organisationNumber": "559100-9989"
+  },
+  {
+    "name": "Lund Västra Veterinärklinik",
+    "organisationNumber": "559100-7413"
+  },
+  {
+    "name": "Kiruna City Djurklinik",
+    "organisationNumber": "559100-5706"
+  },
+  {
+    "name": "Visby Höjd Djurhälsa",
+    "organisationNumber": "559100-6993"
+  },
+  {
+    "name": "Göteborg Dal Djurklinik",
+    "organisationNumber": "559100-2802"
+  },
+  {
+    "name": "Malmö Strand Djurcenter",
+    "organisationNumber": "559100-1556"
+  },
+  {
+    "name": "Kiruna Centrum Veterinärmottagning",
+    "organisationNumber": "559100-5045"
+  },
+  {
+    "name": "Örebro Höjd Veterinärklinik",
+    "organisationNumber": "559100-8916"
+  },
+  {
+    "name": "Malmö Södra Veterinärmottagning",
+    "organisationNumber": "559100-1242"
+  },
+  {
+    "name": "Västerås Park Veterinärklinik",
+    "organisationNumber": "559100-9617"
+  },
+  {
+    "name": "Uppsala Västra Djurvård",
+    "organisationNumber": "559100-3438"
+  },
+  {
+    "name": "Visby Centrum Veterinärmottagning",
+    "organisationNumber": "559100-6043"
+  },
+  {
+    "name": "Örebro Centrum Hästklinik",
+    "organisationNumber": "559100-8080"
+  },
+  {
+    "name": "Stockholm Västra Veterinärklinik",
+    "organisationNumber": "559100-4410"
+  },
+  {
+    "name": "Örebro Dal Djursjukhus",
+    "organisationNumber": "559100-8825"
+  },
+  {
+    "name": "Västerås Park Djurklinik",
+    "organisationNumber": "559100-9609"
+  },
+  {
+    "name": "Visby Strand Djurklinik",
+    "organisationNumber": "559100-6506"
+  },
+  {
+    "name": "Visby Dal Djurvård",
+    "organisationNumber": "559100-6837"
+  },
+  {
+    "name": "Göteborg Södra Djurcenter",
+    "organisationNumber": "559100-2257"
+  },
+  {
+    "name": "Visby Dal Veterinärklinik",
+    "organisationNumber": "559100-6811"
+  },
+  {
+    "name": "Kiruna Park Veterinärklinik",
+    "organisationNumber": "559100-5615"
+  },
+  {
+    "name": "Lund Södra Smådjursklinik",
+    "organisationNumber": "559100-7272"
+  },
+  {
+    "name": "Stockholm Västra Hästklinik",
+    "organisationNumber": "559100-4485"
+  },
+  {
+    "name": "Lund City Djurklinik",
+    "organisationNumber": "559100-7702"
+  },
+  {
+    "name": "Visby Östra Smådjursklinik",
+    "organisationNumber": "559100-6373"
+  },
+  {
+    "name": "Kiruna Dal Veterinärklinik",
+    "organisationNumber": "559100-5813"
+  },
+  {
+    "name": "Örebro Västra Djurvård",
+    "organisationNumber": "559100-8437"
+  },
+  {
+    "name": "Visby Strand Veterinärcenter",
+    "organisationNumber": "559100-6563"
+  },
+  {
+    "name": "Malmö Dal Djursjukhus",
+    "organisationNumber": "559100-1820"
+  },
+  {
+    "name": "Uppsala Norra Djurhälsa",
+    "organisationNumber": "559100-3198"
+  },
+  {
+    "name": "Lund City Djurcenter",
+    "organisationNumber": "559100-7751"
+  },
+  {
+    "name": "Åre Västra Veterinärklinik",
+    "organisationNumber": "559100-0418"
+  },
+  {
+    "name": "Västerås Norra Veterinärmottagning",
+    "organisationNumber": "559100-9146"
+  },
+  {
+    "name": "Visby Centrum Veterinärcenter",
+    "organisationNumber": "559100-6068"
+  },
+  {
+    "name": "Stockholm Dal Smådjursklinik",
+    "organisationNumber": "559100-4873"
+  },
+  {
+    "name": "Örebro Södra Smådjursklinik",
+    "organisationNumber": "559100-8270"
+  },
+  {
+    "name": "Stockholm Höjd Veterinärmottagning",
+    "organisationNumber": "559100-4949"
+  },
+  {
+    "name": "Lund Park Djurcenter",
+    "organisationNumber": "559100-7652"
+  },
+  {
+    "name": "Kiruna Park Djurcenter",
+    "organisationNumber": "559100-5656"
+  },
+  {
+    "name": "Lund Strand Veterinärklinik",
+    "organisationNumber": "559100-7512"
+  },
+  {
+    "name": "Åre Västra Hästklinik",
+    "organisationNumber": "559100-0483"
+  },
+  {
+    "name": "Stockholm City Djurcenter",
+    "organisationNumber": "559100-4758"
+  },
+  {
+    "name": "Västerås City Djurcenter",
+    "organisationNumber": "559100-9757"
+  },
+  {
+    "name": "Lund Höjd Veterinärklinik",
+    "organisationNumber": "559100-7918"
+  },
+  {
+    "name": "Örebro Park Veterinärklinik",
+    "organisationNumber": "559100-8619"
+  },
+  {
+    "name": "Göteborg Västra Veterinärklinik",
+    "organisationNumber": "559100-2414"
+  },
+  {
+    "name": "Visby Västra Veterinärcenter",
+    "organisationNumber": "559100-6464"
+  },
+  {
+    "name": "Västerås Södra Djursjukhus",
+    "organisationNumber": "559100-9229"
+  },
+  {
+    "name": "Västerås Höjd Djurklinik",
+    "organisationNumber": "559100-9906"
+  },
+  {
+    "name": "Visby Dal Djursjukhus",
+    "organisationNumber": "559100-6829"
+  },
+  {
+    "name": "Örebro Norra Djurklinik",
+    "organisationNumber": "559100-8106"
+  },
+  {
+    "name": "Visby Centrum Smådjursklinik",
+    "organisationNumber": "559100-6076"
+  },
+  {
+    "name": "Stockholm Dal Veterinärklinik",
+    "organisationNumber": "559100-4816"
+  },
+  {
+    "name": "Kiruna Strand Veterinärklinik",
+    "organisationNumber": "559100-5516"
+  },
+  {
+    "name": "Lund Park Djurklinik",
+    "organisationNumber": "559100-7603"
+  },
+  {
+    "name": "Örebro Dal Djurvård",
+    "organisationNumber": "559100-8833"
+  },
+  {
+    "name": "Malmö Höjd Veterinärcenter",
+    "organisationNumber": "559100-1960"
+  },
+  {
+    "name": "Kiruna Västra Djurvård",
+    "organisationNumber": "559100-5433"
+  },
+  {
+    "name": "Uppsala Västra Djursjukhus",
+    "organisationNumber": "559100-3420"
+  },
+  {
+    "name": "Visby Västra Smådjursklinik",
+    "organisationNumber": "559100-6472"
+  },
+  {
+    "name": "Stockholm Södra Hästklinik",
+    "organisationNumber": "559100-4287"
+  },
+  {
+    "name": "Örebro Centrum Djurhälsa",
+    "organisationNumber": "559100-8098"
+  },
+  {
+    "name": "Visby City Djurcenter",
+    "organisationNumber": "559100-6753"
+  },
+  {
+    "name": "Örebro Västra Veterinärcenter",
+    "organisationNumber": "559100-8460"
+  },
+  {
+    "name": "Kiruna City Djurhälsa",
+    "organisationNumber": "559100-5797"
+  },
+  {
+    "name": "Malmö Östra Djurhälsa",
+    "organisationNumber": "559100-1390"
+  },
+  {
+    "name": "Göteborg Västra Djurvård",
+    "organisationNumber": "559100-2430"
+  },
+  {
+    "name": "Lund Dal Smådjursklinik",
+    "organisationNumber": "559100-7876"
+  },
+  {
+    "name": "Göteborg City Hästklinik",
+    "organisationNumber": "559100-2786"
+  },
+  {
+    "name": "Örebro Östra Veterinärcenter",
+    "organisationNumber": "559100-8361"
+  },
+  {
+    "name": "Göteborg Norra Veterinärklinik",
+    "organisationNumber": "559100-2117"
+  },
+  {
+    "name": "Kiruna Dal Djurhälsa",
+    "organisationNumber": "559100-5896"
+  },
+  {
+    "name": "Malmö Centrum Smådjursklinik",
+    "organisationNumber": "559100-1077"
+  },
+  {
+    "name": "Malmö Centrum Djurcenter",
+    "organisationNumber": "559100-1051"
+  },
+  {
+    "name": "Kiruna City Veterinärcenter",
+    "organisationNumber": "559100-5763"
+  },
+  {
+    "name": "Örebro Centrum Veterinärmottagning",
+    "organisationNumber": "559100-8049"
+  },
+  {
+    "name": "Göteborg Strand Djurklinik",
+    "organisationNumber": "559100-2505"
+  },
+  {
+    "name": "Malmö Västra Smådjursklinik",
+    "organisationNumber": "559100-1473"
+  },
+  {
+    "name": "Örebro Västra Djursjukhus",
+    "organisationNumber": "559100-8429"
+  },
+  {
+    "name": "Västerås Dal Djurcenter",
+    "organisationNumber": "559100-9856"
+  },
+  {
+    "name": "Stockholm Dal Hästklinik",
+    "organisationNumber": "559100-4881"
+  },
+  {
+    "name": "Örebro Norra Djurhälsa",
+    "organisationNumber": "559100-8197"
+  },
+  {
+    "name": "Örebro Höjd Veterinärmottagning",
+    "organisationNumber": "559100-8940"
+  },
+  {
+    "name": "Malmö Västra Veterinärklinik",
+    "organisationNumber": "559100-1416"
+  },
+  {
+    "name": "Västerås Östra Djurhälsa",
+    "organisationNumber": "559100-9393"
+  },
+  {
+    "name": "Örebro Centrum Djurcenter",
+    "organisationNumber": "559100-8056"
+  },
+  {
+    "name": "Stockholm Västra Djurvård",
+    "organisationNumber": "559100-4436"
+  },
+  {
+    "name": "Göteborg Strand Smådjursklinik",
+    "organisationNumber": "559100-2570"
+  },
+  {
+    "name": "Visby Södra Djurcenter",
+    "organisationNumber": "559100-6258"
+  },
+  {
+    "name": "Malmö Södra Djurvård",
+    "organisationNumber": "559100-1234"
+  },
+  {
+    "name": "Örebro Centrum Veterinärklinik",
+    "organisationNumber": "559100-8015"
+  },
+  {
+    "name": "Göteborg Södra Veterinärklinik",
+    "organisationNumber": "559100-2216"
+  },
+  {
+    "name": "Kiruna Västra Djursjukhus",
+    "organisationNumber": "559100-5425"
+  },
+  {
+    "name": "Göteborg Centrum Djurvård",
+    "organisationNumber": "559100-2034"
+  },
+  {
+    "name": "Stockholm Höjd Hästklinik",
+    "organisationNumber": "559100-4980"
+  },
+  {
+    "name": "Malmö Dal Djurcenter",
+    "organisationNumber": "559100-1853"
+  },
+  {
+    "name": "Visby Centrum Djursjukhus",
+    "organisationNumber": "559100-6027"
+  },
+  {
+    "name": "Åre Centrum Veterinärklinik",
+    "organisationNumber": "559100-0012"
+  },
+  {
+    "name": "Kiruna Höjd Veterinärcenter",
+    "organisationNumber": "559100-5961"
+  },
+  {
+    "name": "Visby Höjd Hästklinik",
+    "organisationNumber": "559100-6985"
+  },
+  {
+    "name": "Stockholm Centrum Smådjursklinik",
+    "organisationNumber": "559100-4071"
+  },
+  {
+    "name": "Uppsala Höjd Djurhälsa",
+    "organisationNumber": "559100-3990"
+  },
+  {
+    "name": "Åre Norra Djurklinik",
+    "organisationNumber": "559100-0103"
+  },
+  {
+    "name": "Göteborg Västra Djurhälsa",
+    "organisationNumber": "559100-2497"
+  },
+  {
+    "name": "Åre Dal Veterinärcenter",
+    "organisationNumber": "559100-0863"
+  },
+  {
+    "name": "Kiruna Norra Djurhälsa",
+    "organisationNumber": "559100-5193"
+  },
+  {
+    "name": "Göteborg Dal Djurhälsa",
+    "organisationNumber": "559100-2893"
+  },
+  {
+    "name": "Lund Dal Veterinärklinik",
+    "organisationNumber": "559100-7819"
+  },
+  {
+    "name": "Örebro Dal Hästklinik",
+    "organisationNumber": "559100-8882"
+  },
+  {
+    "name": "Lund Strand Djurklinik",
+    "organisationNumber": "559100-7504"
+  },
+  {
+    "name": "Malmö Östra Djurvård",
+    "organisationNumber": "559100-1333"
+  },
+  {
+    "name": "Malmö Södra Djurhälsa",
+    "organisationNumber": "559100-1291"
+  },
+  {
+    "name": "Åre Norra Veterinärcenter",
+    "organisationNumber": "559100-0160"
+  },
+  {
+    "name": "Lund City Djurvård",
+    "organisationNumber": "559100-7736"
+  },
+  {
+    "name": "Göteborg Norra Veterinärcenter",
+    "organisationNumber": "559100-2166"
+  },
+  {
+    "name": "Västerås Norra Veterinärklinik",
+    "organisationNumber": "559100-9112"
+  },
+  {
+    "name": "Uppsala Dal Djurhälsa",
+    "organisationNumber": "559100-3891"
+  },
+  {
+    "name": "Stockholm City Veterinärklinik",
+    "organisationNumber": "559100-4717"
+  },
+  {
+    "name": "Uppsala Dal Smådjursklinik",
+    "organisationNumber": "559100-3875"
+  },
+  {
+    "name": "Göteborg Park Veterinärklinik",
+    "organisationNumber": "559100-2612"
+  },
+  {
+    "name": "Västerås Norra Djurcenter",
+    "organisationNumber": "559100-9153"
+  },
+  {
+    "name": "Åre Centrum Djurhälsa",
+    "organisationNumber": "559100-0095"
+  },
+  {
+    "name": "Kiruna Norra Djurklinik",
+    "organisationNumber": "559100-5102"
+  },
+  {
+    "name": "Lund Centrum Smådjursklinik",
+    "organisationNumber": "559100-7074"
+  },
+  {
+    "name": "Västerås Dal Djurhälsa",
+    "organisationNumber": "559100-9898"
+  },
+  {
+    "name": "Malmö Strand Djurhälsa",
+    "organisationNumber": "559100-1598"
+  },
+  {
+    "name": "Uppsala Dal Hästklinik",
+    "organisationNumber": "559100-3883"
+  },
+  {
+    "name": "Visby Södra Veterinärklinik",
+    "organisationNumber": "559100-6217"
+  },
+  {
+    "name": "Åre Park Djurcenter",
+    "organisationNumber": "559100-0657"
+  },
+  {
+    "name": "Kiruna Södra Djurcenter",
+    "organisationNumber": "559100-5250"
+  },
+  {
+    "name": "Uppsala Park Djursjukhus",
+    "organisationNumber": "559100-3628"
+  },
+  {
+    "name": "Lund Park Veterinärklinik",
+    "organisationNumber": "559100-7611"
+  },
+  {
+    "name": "Göteborg Höjd Djurcenter",
+    "organisationNumber": "559100-2950"
+  },
+  {
+    "name": "Visby Höjd Djurklinik",
+    "organisationNumber": "559100-6902"
+  },
+  {
+    "name": "Göteborg Östra Veterinärcenter",
+    "organisationNumber": "559100-2364"
+  },
+  {
+    "name": "Uppsala Södra Veterinärklinik",
+    "organisationNumber": "559100-3214"
+  },
+  {
+    "name": "Stockholm Östra Veterinärcenter",
+    "organisationNumber": "559100-4360"
+  },
+  {
+    "name": "Göteborg Höjd Djurhälsa",
+    "organisationNumber": "559100-2992"
+  },
+  {
+    "name": "Lund Centrum Veterinärcenter",
+    "organisationNumber": "559100-7066"
+  },
+  {
+    "name": "Örebro Östra Djurcenter",
+    "organisationNumber": "559100-8353"
+  },
+  {
+    "name": "Stockholm Norra Veterinärcenter",
+    "organisationNumber": "559100-4162"
+  },
+  {
+    "name": "Göteborg Strand Djurvård",
+    "organisationNumber": "559100-2539"
+  },
+  {
+    "name": "Kiruna Höjd Veterinärklinik",
+    "organisationNumber": "559100-5912"
+  },
+  {
+    "name": "Västerås Strand Djurklinik",
+    "organisationNumber": "559100-9500"
+  },
+  {
+    "name": "Lund Strand Smådjursklinik",
+    "organisationNumber": "559100-7579"
+  },
+  {
+    "name": "Lund City Smådjursklinik",
+    "organisationNumber": "559100-7777"
+  },
+  {
+    "name": "Stockholm Park Veterinärcenter",
+    "organisationNumber": "559100-4667"
+  },
+  {
+    "name": "Lund Norra Djurcenter",
+    "organisationNumber": "559100-7157"
+  },
+  {
+    "name": "Örebro City Hästklinik",
+    "organisationNumber": "559100-8783"
+  },
+  {
+    "name": "Örebro Strand Djurvård",
+    "organisationNumber": "559100-8536"
+  },
+  {
+    "name": "Uppsala Höjd Djurcenter",
+    "organisationNumber": "559100-3958"
+  },
+  {
+    "name": "Örebro Dal Djurcenter",
+    "organisationNumber": "559100-8858"
+  },
+  {
+    "name": "Malmö Östra Veterinärmottagning",
+    "organisationNumber": "559100-1341"
+  },
+  {
+    "name": "Örebro Park Djurvård",
+    "organisationNumber": "559100-8635"
+  },
+  {
+    "name": "Åre Park Smådjursklinik",
+    "organisationNumber": "559100-0673"
+  },
+  {
+    "name": "Lund Södra Veterinärmottagning",
+    "organisationNumber": "559100-7249"
+  },
+  {
+    "name": "Uppsala City Hästklinik",
+    "organisationNumber": "559100-3784"
+  },
+  {
+    "name": "Stockholm Centrum Djurhälsa",
+    "organisationNumber": "559100-4097"
+  },
+  {
+    "name": "Västerås Östra Smådjursklinik",
+    "organisationNumber": "559100-9377"
+  },
+  {
+    "name": "Örebro City Djurvård",
+    "organisationNumber": "559100-8734"
+  },
+  {
+    "name": "Åre Norra Smådjursklinik",
+    "organisationNumber": "559100-0178"
+  },
+  {
+    "name": "Västerås Park Djurcenter",
+    "organisationNumber": "559100-9658"
+  },
+  {
+    "name": "Visby Södra Djursjukhus",
+    "organisationNumber": "559100-6225"
+  },
+  {
+    "name": "Örebro Höjd Djurcenter",
+    "organisationNumber": "559100-8957"
+  },
+  {
+    "name": "Kiruna Södra Djursjukhus",
+    "organisationNumber": "559100-5227"
+  },
+  {
+    "name": "Lund Södra Djurcenter",
+    "organisationNumber": "559100-7256"
+  },
+  {
+    "name": "Uppsala Höjd Veterinärmottagning",
+    "organisationNumber": "559100-3941"
+  },
+  {
+    "name": "Örebro Höjd Veterinärcenter",
+    "organisationNumber": "559100-8965"
+  },
+  {
+    "name": "Visby Höjd Djursjukhus",
+    "organisationNumber": "559100-6928"
+  },
+  {
+    "name": "Lund Södra Djurvård",
+    "organisationNumber": "559100-7231"
+  },
+  {
+    "name": "Stockholm Strand Veterinärmottagning",
+    "organisationNumber": "559100-4543"
+  },
+  {
+    "name": "Kiruna Västra Djurhälsa",
+    "organisationNumber": "559100-5490"
+  },
+  {
+    "name": "Kiruna Park Djursjukhus",
+    "organisationNumber": "559100-5623"
+  },
+  {
+    "name": "Göteborg Södra Djurhälsa",
+    "organisationNumber": "559100-2299"
+  },
+  {
+    "name": "Malmö Park Veterinärcenter",
+    "organisationNumber": "559100-1663"
+  },
+  {
+    "name": "Lund Västra Djurvård",
+    "organisationNumber": "559100-7439"
+  },
+  {
+    "name": "Örebro Södra Djurcenter",
+    "organisationNumber": "559100-8254"
+  },
+  {
+    "name": "Lund Norra Hästklinik",
+    "organisationNumber": "559100-7181"
+  },
+  {
+    "name": "Åre Centrum Djurcenter",
+    "organisationNumber": "559100-0053"
+  },
+  {
+    "name": "Lund Centrum Veterinärklinik",
+    "organisationNumber": "559100-7017"
+  },
+  {
+    "name": "Visby Höjd Veterinärklinik",
+    "organisationNumber": "559100-6910"
+  },
+  {
+    "name": "Stockholm Park Veterinärklinik",
+    "organisationNumber": "559100-4618"
+  },
+  {
+    "name": "Stockholm Södra Djurklinik",
+    "organisationNumber": "559100-4204"
+  },
+  {
+    "name": "Örebro City Djurhälsa",
+    "organisationNumber": "559100-8791"
+  },
+  {
+    "name": "Västerås Dal Veterinärklinik",
+    "organisationNumber": "559100-9815"
+  },
+  {
+    "name": "Malmö Dal Djurhälsa",
+    "organisationNumber": "559100-1895"
+  },
+  {
+    "name": "Uppsala Strand Djurhälsa",
+    "organisationNumber": "559100-3594"
+  },
+  {
+    "name": "Malmö Dal Veterinärklinik",
+    "organisationNumber": "559100-1812"
+  },
+  {
+    "name": "Uppsala Park Djurvård",
+    "organisationNumber": "559100-3636"
+  },
+  {
+    "name": "Göteborg Centrum Smådjursklinik",
+    "organisationNumber": "559100-2075"
+  },
+  {
+    "name": "Visby Strand Djurhälsa",
+    "organisationNumber": "559100-6597"
+  },
+  {
+    "name": "Örebro Norra Veterinärklinik",
+    "organisationNumber": "559100-8114"
+  },
+  {
+    "name": "Örebro City Veterinärmottagning",
+    "organisationNumber": "559100-8742"
+  },
+  {
+    "name": "Göteborg Östra Veterinärklinik",
+    "organisationNumber": "559100-2315"
+  },
+  {
+    "name": "Örebro Park Djurhälsa",
+    "organisationNumber": "559100-8692"
+  },
+  {
+    "name": "Uppsala Park Djurcenter",
+    "organisationNumber": "559100-3651"
+  },
+  {
+    "name": "Uppsala Södra Djurvård",
+    "organisationNumber": "559100-3230"
+  },
+  {
+    "name": "Kiruna Dal Smådjursklinik",
+    "organisationNumber": "559100-5870"
+  },
+  {
+    "name": "Uppsala Höjd Hästklinik",
+    "organisationNumber": "559100-3982"
+  },
+  {
+    "name": "Lund Dal Djurvård",
+    "organisationNumber": "559100-7835"
+  },
+  {
+    "name": "Uppsala Västra Smådjursklinik",
+    "organisationNumber": "559100-3479"
+  },
+  {
+    "name": "Göteborg Centrum Djurhälsa",
+    "organisationNumber": "559100-2091"
+  },
+  {
+    "name": "Västerås Strand Djurhälsa",
+    "organisationNumber": "559100-9591"
+  },
+  {
+    "name": "Västerås Norra Djurhälsa",
+    "organisationNumber": "559100-9195"
+  },
+  {
+    "name": "Västerås Östra Djurvård",
+    "organisationNumber": "559100-9336"
+  },
+  {
+    "name": "Örebro Dal Smådjursklinik",
+    "organisationNumber": "559100-8874"
+  },
+  {
+    "name": "Visby Östra Djurklinik",
+    "organisationNumber": "559100-6308"
+  },
+  {
+    "name": "Visby Dal Djurcenter",
+    "organisationNumber": "559100-6852"
+  },
+  {
+    "name": "Uppsala Centrum Djurhälsa",
+    "organisationNumber": "559100-3099"
+  },
+  {
+    "name": "Visby Park Veterinärklinik",
+    "organisationNumber": "559100-6613"
+  },
+  {
+    "name": "Lund Västra Hästklinik",
+    "organisationNumber": "559100-7488"
+  },
+  {
+    "name": "Malmö Södra Djurcenter",
+    "organisationNumber": "559100-1259"
+  },
+  {
+    "name": "Västerås Södra Smådjursklinik",
+    "organisationNumber": "559100-9278"
+  },
+  {
+    "name": "Västerås Södra Veterinärklinik",
+    "organisationNumber": "559100-9211"
+  },
+  {
+    "name": "Kiruna Centrum Veterinärcenter",
+    "organisationNumber": "559100-5060"
+  },
+  {
+    "name": "Göteborg Östra Smådjursklinik",
+    "organisationNumber": "559100-2372"
+  },
+  {
+    "name": "Lund Västra Smådjursklinik",
+    "organisationNumber": "559100-7470"
+  },
+  {
+    "name": "Göteborg Västra Djurcenter",
+    "organisationNumber": "559100-2455"
+  },
+  {
+    "name": "Lund Park Veterinärmottagning",
+    "organisationNumber": "559100-7645"
+  },
+  {
+    "name": "Uppsala City Djurvård",
+    "organisationNumber": "559100-3735"
+  },
+  {
+    "name": "Örebro Höjd Djurklinik",
+    "organisationNumber": "559100-8908"
+  },
+  {
+    "name": "Örebro Södra Djurvård",
+    "organisationNumber": "559100-8239"
+  },
+  {
+    "name": "Västerås Östra Veterinärmottagning",
+    "organisationNumber": "559100-9344"
+  },
+  {
+    "name": "Göteborg City Djurvård",
+    "organisationNumber": "559100-2737"
+  },
+  {
+    "name": "Stockholm City Veterinärmottagning",
+    "organisationNumber": "559100-4741"
+  },
+  {
+    "name": "Visby Park Smådjursklinik",
+    "organisationNumber": "559100-6670"
+  },
+  {
+    "name": "Visby Västra Djurvård",
+    "organisationNumber": "559100-6431"
+  },
+  {
+    "name": "Lund Norra Smådjursklinik",
+    "organisationNumber": "559100-7173"
+  },
+  {
+    "name": "Stockholm Norra Hästklinik",
+    "organisationNumber": "559100-4188"
+  },
+  {
+    "name": "Uppsala Strand Smådjursklinik",
+    "organisationNumber": "559100-3578"
+  },
+  {
+    "name": "Åre Höjd Smådjursklinik",
+    "organisationNumber": "559100-0970"
+  },
+  {
+    "name": "Göteborg Park Djurcenter",
+    "organisationNumber": "559100-2653"
+  },
+  {
+    "name": "Visby Östra Veterinärklinik",
+    "organisationNumber": "559100-6316"
+  },
+  {
+    "name": "Göteborg City Djurhälsa",
+    "organisationNumber": "559100-2794"
+  },
+  {
+    "name": "Uppsala Strand Veterinärmottagning",
+    "organisationNumber": "559100-3545"
+  },
+  {
+    "name": "Visby Strand Djurvård",
+    "organisationNumber": "559100-6530"
+  },
+  {
+    "name": "Lund Strand Djursjukhus",
+    "organisationNumber": "559100-7520"
+  },
+  {
+    "name": "Stockholm Norra Djurhälsa",
+    "organisationNumber": "559100-4196"
+  },
+  {
+    "name": "Kiruna Höjd Djursjukhus",
+    "organisationNumber": "559100-5920"
+  },
+  {
+    "name": "Västerås City Djurvård",
+    "organisationNumber": "559100-9732"
+  },
+  {
+    "name": "Stockholm Västra Djurklinik",
+    "organisationNumber": "559100-4402"
+  },
+  {
+    "name": "Örebro Norra Djurvård",
+    "organisationNumber": "559100-8130"
+  },
+  {
+    "name": "Göteborg Södra Djursjukhus",
+    "organisationNumber": "559100-2224"
+  },
+  {
+    "name": "Stockholm Norra Djurvård",
+    "organisationNumber": "559100-4139"
+  },
+  {
+    "name": "Lund Västra Djurklinik",
+    "organisationNumber": "559100-7405"
+  },
+  {
+    "name": "Göteborg Norra Djurvård",
+    "organisationNumber": "559100-2133"
+  },
+  {
+    "name": "Uppsala Centrum Veterinärcenter",
+    "organisationNumber": "559100-3065"
+  },
+  {
+    "name": "Kiruna Strand Smådjursklinik",
+    "organisationNumber": "559100-5573"
+  },
+  {
+    "name": "Göteborg Strand Veterinärklinik",
+    "organisationNumber": "559100-2513"
+  },
+  {
+    "name": "Göteborg Park Djurhälsa",
+    "organisationNumber": "559100-2695"
+  },
+  {
+    "name": "Göteborg Södra Veterinärmottagning",
+    "organisationNumber": "559100-2240"
+  },
+  {
+    "name": "Västerås Södra Djurklinik",
+    "organisationNumber": "559100-9203"
+  },
+  {
+    "name": "Örebro Strand Djurcenter",
+    "organisationNumber": "559100-8551"
+  },
+  {
+    "name": "Stockholm Norra Veterinärklinik",
+    "organisationNumber": "559100-4113"
+  },
+  {
+    "name": "Kiruna Centrum Djursjukhus",
+    "organisationNumber": "559100-5029"
+  },
+  {
+    "name": "Stockholm Höjd Smådjursklinik",
+    "organisationNumber": "559100-4972"
+  },
+  {
+    "name": "Åre Strand Hästklinik",
+    "organisationNumber": "559100-0582"
+  },
+  {
+    "name": "Stockholm Södra Veterinärklinik",
+    "organisationNumber": "559100-4212"
+  },
+  {
+    "name": "Åre Östra Hästklinik",
+    "organisationNumber": "559100-0384"
+  },
+  {
+    "name": "Stockholm Södra Djurhälsa",
+    "organisationNumber": "559100-4295"
+  },
+  {
+    "name": "Lund Östra Veterinärklinik",
+    "organisationNumber": "559100-7314"
+  },
+  {
+    "name": "Lund Strand Djurhälsa",
+    "organisationNumber": "559100-7595"
+  },
+  {
+    "name": "Uppsala Södra Djurcenter",
+    "organisationNumber": "559100-3255"
+  },
+  {
+    "name": "Lund Höjd Djurvård",
+    "organisationNumber": "559100-7934"
+  },
+  {
+    "name": "Örebro Park Veterinärmottagning",
+    "organisationNumber": "559100-8643"
+  },
+  {
+    "name": "Malmö Norra Veterinärklinik",
+    "organisationNumber": "559100-1119"
+  },
+  {
+    "name": "Lund Höjd Veterinärmottagning",
+    "organisationNumber": "559100-7942"
+  },
+  {
+    "name": "Västerås Park Smådjursklinik",
+    "organisationNumber": "559100-9674"
+  },
+  {
+    "name": "Västerås City Djurklinik",
+    "organisationNumber": "559100-9708"
+  },
+  {
+    "name": "Åre Norra Veterinärklinik",
+    "organisationNumber": "559100-0111"
+  },
+  {
+    "name": "Malmö Östra Djurklinik",
+    "organisationNumber": "559100-1309"
+  },
+  {
+    "name": "Örebro Västra Djurcenter",
+    "organisationNumber": "559100-8452"
+  },
+  {
+    "name": "Visby Västra Djursjukhus",
+    "organisationNumber": "559100-6423"
+  },
+  {
+    "name": "Göteborg Höjd Djurvård",
+    "organisationNumber": "559100-2935"
+  },
+  {
+    "name": "Örebro Centrum Djurklinik",
+    "organisationNumber": "559100-8007"
+  },
+  {
+    "name": "Åre Södra Djurhälsa",
+    "organisationNumber": "559100-0293"
+  },
+  {
+    "name": "Malmö City Djurcenter",
+    "organisationNumber": "559100-1754"
+  },
+  {
+    "name": "Örebro City Djurcenter",
+    "organisationNumber": "559100-8759"
+  },
+  {
+    "name": "Örebro Strand Veterinärcenter",
+    "organisationNumber": "559100-8569"
+  },
+  {
+    "name": "Örebro City Veterinärklinik",
+    "organisationNumber": "559100-8718"
+  },
+  {
+    "name": "Lund Centrum Djurvård",
+    "organisationNumber": "559100-7033"
+  },
+  {
+    "name": "Åre Höjd Veterinärklinik",
+    "organisationNumber": "559100-0913"
+  },
+  {
+    "name": "Malmö Park Djurvård",
+    "organisationNumber": "559100-1630"
+  },
+  {
+    "name": "Lund Centrum Djurhälsa",
+    "organisationNumber": "559100-7090"
+  },
+  {
+    "name": "Västerås Västra Hästklinik",
+    "organisationNumber": "559100-9484"
+  },
+  {
+    "name": "Visby Norra Djurhälsa",
+    "organisationNumber": "559100-6191"
+  },
+  {
+    "name": "Kiruna Centrum Djurvård",
+    "organisationNumber": "559100-5037"
+  },
+  {
+    "name": "Lund Västra Djurcenter",
+    "organisationNumber": "559100-7454"
+  },
+  {
+    "name": "Uppsala Centrum Djurcenter",
+    "organisationNumber": "559100-3057"
+  },
+  {
+    "name": "Stockholm Centrum Djurcenter",
+    "organisationNumber": "559100-4055"
+  },
+  {
+    "name": "Åre Centrum Djursjukhus",
+    "organisationNumber": "559100-0020"
+  },
+  {
+    "name": "Västerås City Djurhälsa",
+    "organisationNumber": "559100-9799"
+  },
+  {
+    "name": "Kiruna Västra Hästklinik",
+    "organisationNumber": "559100-5482"
+  },
+  {
+    "name": "Västerås Västra Djurcenter",
+    "organisationNumber": "559100-9450"
+  },
+  {
+    "name": "Visby Park Veterinärmottagning",
+    "organisationNumber": "559100-6647"
+  },
+  {
+    "name": "Örebro Park Veterinärcenter",
+    "organisationNumber": "559100-8668"
+  },
+  {
+    "name": "Malmö Västra Djurvård",
+    "organisationNumber": "559100-1432"
+  },
+  {
+    "name": "Uppsala City Djurhälsa",
+    "organisationNumber": "559100-3792"
+  },
+  {
+    "name": "Malmö Park Djurklinik",
+    "organisationNumber": "559100-1606"
+  },
+  {
+    "name": "Stockholm Östra Smådjursklinik",
+    "organisationNumber": "559100-4378"
+  },
+  {
+    "name": "Åre Centrum Djurklinik",
+    "organisationNumber": "559100-0004"
+  },
+  {
+    "name": "Kiruna Västra Veterinärklinik",
+    "organisationNumber": "559100-5417"
+  },
+  {
+    "name": "Åre Strand Djurcenter",
+    "organisationNumber": "559100-0558"
+  },
+  {
+    "name": "Uppsala Dal Veterinärklinik",
+    "organisationNumber": "559100-3818"
+  },
+  {
+    "name": "Stockholm Park Hästklinik",
+    "organisationNumber": "559100-4683"
+  },
+  {
+    "name": "Malmö City Smådjursklinik",
+    "organisationNumber": "559100-1770"
+  },
+  {
+    "name": "Visby Norra Djurcenter",
+    "organisationNumber": "559100-6159"
+  },
+  {
+    "name": "Göteborg Dal Djurcenter",
+    "organisationNumber": "559100-2851"
+  },
+  {
+    "name": "Malmö Dal Hästklinik",
+    "organisationNumber": "559100-1887"
+  },
+  {
+    "name": "Örebro Norra Smådjursklinik",
+    "organisationNumber": "559100-8171"
+  },
+  {
+    "name": "Örebro Höjd Djursjukhus",
+    "organisationNumber": "559100-8924"
+  },
+  {
+    "name": "Västerås Södra Veterinärcenter",
+    "organisationNumber": "559100-9260"
+  },
+  {
+    "name": "Malmö Västra Djurhälsa",
+    "organisationNumber": "559100-1499"
+  },
+  {
+    "name": "Uppsala Höjd Djurvård",
+    "organisationNumber": "559100-3933"
+  },
+  {
+    "name": "Göteborg Park Smådjursklinik",
+    "organisationNumber": "559100-2679"
+  },
+  {
+    "name": "Västerås Södra Djurhälsa",
+    "organisationNumber": "559100-9294"
+  },
+  {
+    "name": "Uppsala Östra Veterinärcenter",
+    "organisationNumber": "559100-3362"
+  },
+  {
+    "name": "Stockholm Östra Djurhälsa",
+    "organisationNumber": "559100-4394"
+  },
+  {
+    "name": "Åre Dal Djurhälsa",
+    "organisationNumber": "559100-0897"
+  },
+  {
+    "name": "Kiruna Södra Djurhälsa",
+    "organisationNumber": "559100-5292"
+  },
+  {
+    "name": "Lund Dal Veterinärmottagning",
+    "organisationNumber": "559100-7843"
+  },
+  {
+    "name": "Kiruna Park Djurhälsa",
+    "organisationNumber": "559100-5698"
+  },
+  {
+    "name": "Uppsala Strand Djurvård",
+    "organisationNumber": "559100-3537"
+  },
+  {
+    "name": "Västerås Strand Veterinärklinik",
+    "organisationNumber": "559100-9518"
+  },
+  {
+    "name": "Lund Norra Djurvård",
+    "organisationNumber": "559100-7132"
+  },
+  {
+    "name": "Åre Västra Djurhälsa",
+    "organisationNumber": "559100-0491"
+  },
+  {
+    "name": "Lund Centrum Djurcenter",
+    "organisationNumber": "559100-7058"
+  },
+  {
+    "name": "Örebro Östra Djurvård",
+    "organisationNumber": "559100-8338"
+  },
+  {
+    "name": "Örebro Dal Veterinärklinik",
+    "organisationNumber": "559100-8817"
+  },
+  {
+    "name": "Åre Höjd Djurvård",
+    "organisationNumber": "559100-0939"
+  },
+  {
+    "name": "Göteborg City Djurcenter",
+    "organisationNumber": "559100-2752"
+  },
+  {
+    "name": "Åre Park Djurhälsa",
+    "organisationNumber": "559100-0699"
+  },
+  {
+    "name": "Västerås Höjd Veterinärmottagning",
+    "organisationNumber": "559100-9948"
+  },
+  {
+    "name": "Lund Södra Veterinärklinik",
+    "organisationNumber": "559100-7215"
+  },
+  {
+    "name": "Lund Höjd Veterinärcenter",
+    "organisationNumber": "559100-7967"
+  },
+  {
+    "name": "Malmö Höjd Smådjursklinik",
+    "organisationNumber": "559100-1978"
+  },
+  {
+    "name": "Stockholm Södra Smådjursklinik",
+    "organisationNumber": "559100-4279"
+  },
+  {
+    "name": "Örebro Strand Veterinärklinik",
+    "organisationNumber": "559100-8510"
+  },
+  {
+    "name": "Västerås Västra Smådjursklinik",
+    "organisationNumber": "559100-9476"
+  },
+  {
+    "name": "Åre Västra Djurcenter",
+    "organisationNumber": "559100-0459"
+  },
+  {
+    "name": "Stockholm Park Djurvård",
+    "organisationNumber": "559100-4634"
+  },
+  {
+    "name": "Visby Centrum Djurhälsa",
+    "organisationNumber": "559100-6092"
+  },
+  {
+    "name": "Lund Centrum Hästklinik",
+    "organisationNumber": "559100-7082"
+  },
+  {
+    "name": "Uppsala Västra Djurhälsa",
+    "organisationNumber": "559100-3495"
+  },
+  {
+    "name": "Åre City Hästklinik",
+    "organisationNumber": "559100-0780"
+  },
+  {
+    "name": "Örebro Höjd Djurhälsa",
+    "organisationNumber": "559100-8999"
+  },
+  {
+    "name": "Kiruna Östra Hästklinik",
+    "organisationNumber": "559100-5383"
+  },
+  {
+    "name": "Lund Dal Djurhälsa",
+    "organisationNumber": "559100-7892"
+  },
+  {
+    "name": "Lund Östra Veterinärmottagning",
+    "organisationNumber": "559100-7348"
+  },
+  {
+    "name": "Örebro Park Djurcenter",
+    "organisationNumber": "559100-8650"
+  },
+  {
+    "name": "Uppsala Strand Hästklinik",
+    "organisationNumber": "559100-3586"
+  },
+  {
+    "name": "Kiruna Höjd Djurvård",
+    "organisationNumber": "559100-5938"
+  },
+  {
+    "name": "Kiruna Norra Djurvård",
+    "organisationNumber": "559100-5136"
+  },
+  {
+    "name": "Örebro Höjd Smådjursklinik",
+    "organisationNumber": "559100-8973"
+  },
+  {
+    "name": "Stockholm Park Djursjukhus",
+    "organisationNumber": "559100-4626"
+  },
+  {
+    "name": "Åre City Smådjursklinik",
+    "organisationNumber": "559100-0772"
+  },
+  {
+    "name": "Västerås Höjd Smådjursklinik",
+    "organisationNumber": "559100-9971"
+  },
+  {
+    "name": "Åre Strand Djurvård",
+    "organisationNumber": "559100-0533"
+  },
+  {
+    "name": "Göteborg Park Djurklinik",
+    "organisationNumber": "559100-2604"
+  },
+  {
+    "name": "Uppsala Park Djurhälsa",
+    "organisationNumber": "559100-3693"
+  },
+  {
+    "name": "Visby Västra Hästklinik",
+    "organisationNumber": "559100-6480"
+  },
+  {
+    "name": "Västerås Centrum Veterinärcenter",
+    "organisationNumber": "559100-9062"
+  },
+  {
+    "name": "Göteborg Höjd Veterinärcenter",
+    "organisationNumber": "559100-2968"
+  },
+  {
+    "name": "Västerås Södra Djurvård",
+    "organisationNumber": "559100-9237"
+  },
+  {
+    "name": "Stockholm Östra Djurklinik",
+    "organisationNumber": "559100-4303"
+  },
+  {
+    "name": "Åre Strand Veterinärklinik",
+    "organisationNumber": "559100-0517"
+  },
+  {
+    "name": "Uppsala City Smådjursklinik",
+    "organisationNumber": "559100-3776"
+  },
+  {
+    "name": "Uppsala Park Veterinärklinik",
+    "organisationNumber": "559100-3610"
+  },
+  {
+    "name": "Malmö Östra Djurcenter",
+    "organisationNumber": "559100-1358"
+  },
+  {
+    "name": "Västerås Park Djurvård",
+    "organisationNumber": "559100-9633"
+  },
+  {
+    "name": "Malmö City Veterinärklinik",
+    "organisationNumber": "559100-1713"
+  },
+  {
+    "name": "Västerås City Veterinärmottagning",
+    "organisationNumber": "559100-9740"
+  },
+  {
+    "name": "Göteborg Centrum Veterinärklinik",
+    "organisationNumber": "559100-2018"
+  },
+  {
+    "name": "Åre Södra Djurvård",
+    "organisationNumber": "559100-0236"
+  },
+  {
+    "name": "Västerås Höjd Djursjukhus",
+    "organisationNumber": "559100-9922"
+  },
+  {
+    "name": "Visby Centrum Veterinärklinik",
+    "organisationNumber": "559100-6019"
+  },
+  {
+    "name": "Åre Östra Djursjukhus",
+    "organisationNumber": "559100-0327"
+  },
+  {
+    "name": "Malmö Höjd Djurcenter",
+    "organisationNumber": "559100-1952"
+  },
+  {
+    "name": "Göteborg Centrum Hästklinik",
+    "organisationNumber": "559100-2083"
+  },
+  {
+    "name": "Uppsala Norra Smådjursklinik",
+    "organisationNumber": "559100-3172"
+  },
+  {
+    "name": "Uppsala Höjd Smådjursklinik",
+    "organisationNumber": "559100-3974"
+  },
+  {
+    "name": "Västerås Norra Djurvård",
+    "organisationNumber": "559100-9138"
+  },
+  {
+    "name": "Lund Västra Djursjukhus",
+    "organisationNumber": "559100-7421"
+  },
+  {
+    "name": "Stockholm Strand Djurvård",
+    "organisationNumber": "559100-4535"
+  },
+  {
+    "name": "Stockholm Västra Veterinärcenter",
+    "organisationNumber": "559100-4469"
+  },
+  {
+    "name": "Kiruna Norra Djurcenter",
+    "organisationNumber": "559100-5151"
+  },
+  {
+    "name": "Stockholm Park Djurhälsa",
+    "organisationNumber": "559100-4691"
+  },
+  {
+    "name": "Västerås City Veterinärklinik",
+    "organisationNumber": "559100-9716"
+  },
+  {
+    "name": "Örebro Park Djurklinik",
+    "organisationNumber": "559100-8601"
+  },
+  {
+    "name": "Malmö Norra Smådjursklinik",
+    "organisationNumber": "559100-1176"
+  },
+  {
+    "name": "Uppsala Centrum Djurklinik",
+    "organisationNumber": "559100-3008"
+  },
+  {
+    "name": "Visby Park Djurcenter",
+    "organisationNumber": "559100-6654"
+  },
+  {
+    "name": "Kiruna Södra Djurklinik",
+    "organisationNumber": "559100-5201"
+  },
+  {
+    "name": "Kiruna Dal Djurcenter",
+    "organisationNumber": "559100-5854"
+  },
+  {
+    "name": "Åre Park Hästklinik",
+    "organisationNumber": "559100-0681"
+  },
+  {
+    "name": "Västerås Norra Smådjursklinik",
+    "organisationNumber": "559100-9179"
+  },
+  {
+    "name": "Göteborg Dal Djursjukhus",
+    "organisationNumber": "559100-2828"
+  },
+  {
+    "name": "Uppsala Östra Djurvård",
+    "organisationNumber": "559100-3339"
+  },
+  {
+    "name": "Uppsala Norra Djursjukhus",
+    "organisationNumber": "559100-3123"
+  },
+  {
+    "name": "Malmö Höjd Djurvård",
+    "organisationNumber": "559100-1937"
+  },
+  {
+    "name": "Visby Höjd Djurcenter",
+    "organisationNumber": "559100-6951"
+  },
+  {
+    "name": "Stockholm Strand Djurcenter",
+    "organisationNumber": "559100-4550"
+  },
+  {
+    "name": "Kiruna Centrum Djurhälsa",
+    "organisationNumber": "559100-5094"
+  },
+  {
+    "name": "Åre Park Veterinärklinik",
+    "organisationNumber": "559100-0616"
+  },
+  {
+    "name": "Kiruna City Djurvård",
+    "organisationNumber": "559100-5730"
+  },
+  {
+    "name": "Malmö Södra Smådjursklinik",
+    "organisationNumber": "559100-1275"
+  },
+  {
+    "name": "Lund Centrum Veterinärmottagning",
+    "organisationNumber": "559100-7041"
+  },
+  {
+    "name": "Lund Park Djurhälsa",
+    "organisationNumber": "559100-7694"
+  },
+  {
+    "name": "Uppsala Södra Djurklinik",
+    "organisationNumber": "559100-3206"
+  },
+  {
+    "name": "Västerås Höjd Djurhälsa",
+    "organisationNumber": "559100-9997"
+  },
+  {
+    "name": "Lund Östra Djurcenter",
+    "organisationNumber": "559100-7355"
+  },
+  {
+    "name": "Malmö City Djurvård",
+    "organisationNumber": "559100-1739"
+  },
+  {
+    "name": "Malmö Västra Veterinärcenter",
+    "organisationNumber": "559100-1465"
+  },
+  {
+    "name": "Kiruna Norra Veterinärklinik",
+    "organisationNumber": "559100-5110"
+  },
+  {
+    "name": "Malmö Höjd Veterinärklinik",
+    "organisationNumber": "559100-1911"
+  },
+  {
+    "name": "Göteborg Östra Djurvård",
+    "organisationNumber": "559100-2331"
+  },
+  {
+    "name": "Visby Höjd Smådjursklinik",
+    "organisationNumber": "559100-6977"
+  },
+  {
+    "name": "Uppsala Norra Djurvård",
+    "organisationNumber": "559100-3131"
+  },
+  {
+    "name": "Stockholm Park Smådjursklinik",
+    "organisationNumber": "559100-4675"
+  },
+  {
+    "name": "Västerås Centrum Djurhälsa",
+    "organisationNumber": "559100-9096"
+  },
+  {
+    "name": "Malmö Strand Djurvård",
+    "organisationNumber": "559100-1531"
+  },
+  {
+    "name": "Göteborg Höjd Smådjursklinik",
+    "organisationNumber": "559100-2976"
+  },
+  {
+    "name": "Visby Södra Djurvård",
+    "organisationNumber": "559100-6233"
+  },
+  {
+    "name": "Västerås Dal Smådjursklinik",
+    "organisationNumber": "559100-9872"
+  },
+  {
+    "name": "Kiruna Dal Veterinärmottagning",
+    "organisationNumber": "559100-5847"
+  },
+  {
+    "name": "Kiruna Västra Djurcenter",
+    "organisationNumber": "559100-5458"
+  },
+  {
+    "name": "Kiruna City Hästklinik",
+    "organisationNumber": "559100-5789"
+  },
+  {
+    "name": "Stockholm Västra Djurcenter",
+    "organisationNumber": "559100-4451"
+  },
+  {
+    "name": "Visby Dal Hästklinik",
+    "organisationNumber": "559100-6886"
+  },
+  {
+    "name": "Västerås Centrum Smådjursklinik",
+    "organisationNumber": "559100-9070"
+  },
+  {
+    "name": "Lund Södra Veterinärcenter",
+    "organisationNumber": "559100-7264"
+  },
+  {
+    "name": "Örebro City Smådjursklinik",
+    "organisationNumber": "559100-8775"
+  },
+  {
+    "name": "Visby Västra Djurklinik",
+    "organisationNumber": "559100-6407"
+  },
+  {
+    "name": "Kiruna Strand Djurvård",
+    "organisationNumber": "559100-5532"
+  },
+  {
+    "name": "Åre Norra Djurvård",
+    "organisationNumber": "559100-0137"
+  },
+  {
+    "name": "Visby Park Djurhälsa",
+    "organisationNumber": "559100-6696"
+  },
+  {
+    "name": "Åre Höjd Hästklinik",
+    "organisationNumber": "559100-0988"
+  },
+  {
+    "name": "Uppsala Södra Smådjursklinik",
+    "organisationNumber": "559100-3271"
+  },
+  {
+    "name": "Örebro Strand Djursjukhus",
+    "organisationNumber": "559100-8528"
+  },
+  {
+    "name": "Västerås Höjd Veterinärklinik",
+    "organisationNumber": "559100-9914"
+  },
+  {
+    "name": "Kiruna Västra Veterinärmottagning",
+    "organisationNumber": "559100-5441"
+  },
+  {
+    "name": "Västerås Västra Djurvård",
+    "organisationNumber": "559100-9435"
+  },
+  {
+    "name": "Malmö Norra Veterinärmottagning",
+    "organisationNumber": "559100-1143"
+  },
+  {
+    "name": "Uppsala Västra Veterinärklinik",
+    "organisationNumber": "559100-3412"
+  },
+  {
+    "name": "Västerås Västra Veterinärcenter",
+    "organisationNumber": "559100-9468"
+  },
+  {
+    "name": "Lund Östra Djurhälsa",
+    "organisationNumber": "559100-7397"
+  },
+  {
+    "name": "Stockholm Dal Veterinärcenter",
+    "organisationNumber": "559100-4865"
+  },
+  {
+    "name": "Kiruna City Smådjursklinik",
+    "organisationNumber": "559100-5771"
+  },
+  {
+    "name": "Göteborg Västra Djursjukhus",
+    "organisationNumber": "559100-2422"
+  },
+  {
+    "name": "Göteborg Dal Smådjursklinik",
+    "organisationNumber": "559100-2877"
+  },
+  {
+    "name": "Lund Östra Djurklinik",
+    "organisationNumber": "559100-7306"
+  },
+  {
+    "name": "Göteborg Centrum Djurcenter",
+    "organisationNumber": "559100-2059"
+  },
+  {
+    "name": "Örebro Östra Veterinärklinik",
+    "organisationNumber": "559100-8312"
+  },
+  {
+    "name": "Örebro Centrum Djurvård",
+    "organisationNumber": "559100-8031"
+  },
+  {
+    "name": "Lund Strand Djurvård",
+    "organisationNumber": "559100-7538"
+  },
+  {
+    "name": "Uppsala Centrum Veterinärklinik",
+    "organisationNumber": "559100-3016"
+  },
+  {
+    "name": "Kiruna Östra Djurcenter",
+    "organisationNumber": "559100-5359"
+  },
+  {
+    "name": "Stockholm City Smådjursklinik",
+    "organisationNumber": "559100-4774"
+  },
+  {
+    "name": "Uppsala Park Djurklinik",
+    "organisationNumber": "559100-3602"
+  },
+  {
+    "name": "Kiruna Höjd Smådjursklinik",
+    "organisationNumber": "559100-5979"
+  }
+]
