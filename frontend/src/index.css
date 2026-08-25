@@ -1,0 +1,72 @@
+:root {
+  font-family:
+    Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+  color: #273142;
+  background: #f4f7f9;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  --ink: #172033;
+  --muted: #5f6b7c;
+  --surface: #ffffff;
+  --border: #d9e0e7;
+  --border-subtle: #edf0f3;
+  --input-border: #aab5c2;
+  --accent: #176b73;
+  --accent-strong: #0d5961;
+  --accent-soft: #dff2f1;
+  --focus-ring: rgba(23, 107, 115, 0.22);
+  --focus-ring-strong: #53b7bf;
+  --hover: #f5f9fa;
+  --focus-bg: #e8f5f5;
+  --selected-bg: #dff2f1;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 20rem;
+  min-height: 100vh;
+  margin: 0;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color: #d8dee8;
+    background: #10161d;
+    --ink: #f0f4f8;
+    --muted: #a9b4c2;
+    --surface: #17212b;
+    --border: #344150;
+    --border-subtle: #2a3541;
+    --input-border: #607084;
+    --accent: #63c8ce;
+    --accent-strong: #87dbe0;
+    --accent-soft: #1e4448;
+    --focus-ring: rgba(99, 200, 206, 0.25);
+    --focus-ring-strong: #87dbe0;
+    --hover: #1d2a35;
+    --focus-bg: #203a3e;
+    --selected-bg: #26464a;
+  }
+
+  .error-state {
+    border-color: #87494d;
+    background: #391f23;
+    color: #ffc2c2;
+  }
+
+  .error-state .react-aria-Button {
+    border-color: #a46064;
+    background: #24191b;
+    color: #ffd7d7;
+  }
+}
