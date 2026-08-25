@@ -1,9 +1,9 @@
 import { act, render, screen, waitFor } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
-import { Text } from 'react-aria-components/ListBox'
+import { Text } from 'react-aria-components'
 import { describe, expect, it, vi } from 'vitest'
 import { AsyncAutocomplete, type AsyncAutocompleteMessages } from './AsyncAutocomplete'
-import { triggerObservedIntersections } from './test/setup'
+import { triggerObservedIntersections } from '../test/setup'
 
 interface Product {
   id: string

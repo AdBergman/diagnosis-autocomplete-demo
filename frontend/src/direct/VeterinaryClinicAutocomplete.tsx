@@ -1,9 +1,9 @@
 import { useId, useState } from 'react'
-import { Text } from 'react-aria-components/ListBox'
+import { Text } from 'react-aria-components'
 import {
   AsyncAutocomplete,
   type AsyncAutocompleteLoadOptions,
-} from './AsyncAutocomplete'
+} from '../components/AsyncAutocomplete'
 import {
   fetchVeterinaryClinics,
   type VeterinaryClinic,
@@ -27,7 +27,7 @@ export function VeterinaryClinicAutocomplete() {
     <section className="autocomplete-card" aria-labelledby={headingId}>
       <div className="card-heading">
         <div>
-          <h2 id={headingId}>Find a veterinary clinic</h2>
+          <h3 id={headingId}>Find a veterinary clinic</h3>
           <p>Search by clinic name or Swedish organisation number.</p>
         </div>
         <span className="server-badge">1,000 records</span>

@@ -1,7 +1,7 @@
 import {
   fetchCataloguePage,
   type CatalogueRequest,
-} from './catalogue-api'
+} from '../api/catalogue-api'
 
 export interface VeterinaryClinic {
   name: string

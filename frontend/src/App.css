@@ -5,12 +5,27 @@
 }
 
 .app-header {
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 }
 
 .catalogue-grid {
   display: grid;
   gap: 1.5rem;
+}
+
+.demo-section {
+  display: grid;
+  gap: 1rem;
+  margin-bottom: 3rem;
+}
+
+.section-heading h2,
+.section-heading p {
+  margin-bottom: 0.35rem;
+}
+
+.section-heading > p:last-child {
+  color: var(--muted);
 }
 
 .eyebrow {
@@ -24,6 +39,7 @@
 
 h1,
 h2,
+h3,
 p {
   margin-top: 0;
 }
@@ -60,7 +76,7 @@ h1 {
   border-bottom: 1px solid var(--border);
 }
 
-.card-heading h2 {
+.card-heading h3 {
   margin-bottom: 0.2rem;
   color: var(--ink);
   font-size: 1.15rem;
@@ -93,6 +109,29 @@ h1 {
 .selection span {
   color: var(--ink);
   font-weight: 750;
+}
+
+.bff-config-state {
+  display: flex;
+  min-height: 7rem;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 0;
+  padding: 1.5rem;
+  color: var(--muted);
+}
+
+.bff-config-state .react-aria-Button {
+  flex: none;
+  padding: 0.55rem 0.75rem;
+  border: 1px solid var(--input-border);
+  border-radius: 0.45rem;
+  background: var(--surface);
+  color: var(--accent-strong);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
 }
 
 .disclaimer {

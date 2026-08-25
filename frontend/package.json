@@ -1,7 +1,9 @@
 {
-  "name": "diagnosis-autocomplete-frontend",
+  "name": "react-aria-autocomplete-demo",
   "private": true,
-  "version": "1.0.0",
+  "version": "0.0.0",
+  "description": "Direct and BFF-driven server autocomplete with React Aria",
+  "license": "MIT",
   "type": "module",
   "packageManager": "pnpm@11.24.0",
   "engines": {

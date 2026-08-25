@@ -3,7 +3,7 @@ import userEvent from '@testing-library/user-event'
 import { beforeEach, describe, expect, it, vi } from 'vitest'
 import { DiagnosisAutocomplete } from './DiagnosisAutocomplete'
 import type { Diagnosis } from './diagnoses-api'
-import { triggerObservedIntersections } from './test/setup'
+import { triggerObservedIntersections } from '../test/setup'
 
 const INITIAL_DIAGNOSES: Diagnosis[] = [
   { code: 'A00', description: 'Cholera' },

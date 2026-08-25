@@ -1,52 +1,49 @@
-# Generic server-backed autocomplete demo
+# React Aria autocomplete with and without a BFF
 
-A small reference application that uses one lightweight, generic React Aria autocomplete for two independently searched catalogues:
+A small Spring Boot and React reference application. One generic React Aria
+autocomplete is used by three thin adapters:
 
-- 12,000 synthetic human and veterinary diagnoses
-- 1,000 synthetic Swedish veterinary clinics
+- diagnoses through a direct domain API
+- Swedish veterinary clinics through a direct domain API
+- veterinary clinics through a server-configured BFF contract
 
-> **Synthetic demonstration data. Not for clinical, veterinary, or administrative use.**
+The static catalogues contain 12,000 synthetic diagnoses and 1,000 synthetic
+clinics. Clinic organisation numbers use the Swedish `NNNNNN-NNNN` format.
 
-## What this demonstrates
+> Synthetic demonstration data. Not for clinical, veterinary, or administrative use.
+
+## Structure
 
 ```text
-12,000 diagnoses ──→ Spring search API ──┐
-                                         ├─→ AsyncAutocomplete<T, Cursor>
- 1,000 clinics ────→ Spring search API ──┘
+Direct diagnosis adapter ──→ /api/diagnoses ─────────────────┐
+Direct clinic adapter ─────→ /api/veterinary-clinics ────────┤
+BFF adapter ──→ config ──→ canonical BFF items ──────────────┤
+                                                              ↓
+                                           AsyncAutocomplete<T, Cursor>
 ```
 
-Both source files are deliberately unordered. The clinic catalogue contains unique names and unique, Luhn-valid organisation numbers in the Swedish `NNNNNN-NNNN` display format.
+`AsyncAutocomplete<T, Cursor>` owns the React Aria behavior, abortable
+debouncing, paging, selection, loading, and error states. URLs and domain DTOs
+stay in adapters.
 
-## Technology
+The direct adapters map their domain responses. The BFF adapter first receives
+only a `heading` and `searchUrl`, then consumes display-ready
+`{ id, label, description }` items. Configured search URLs must be relative paths
+inside `/api/bff/autocompletes/`.
 
-- Java 25 and Spring Boot 4.1.1
-- Maven 3.9.16 through the committed Maven Wrapper
-- React 19.2.8 and strict TypeScript 6.0.3
-- Vite 8.2.2
-- React Aria Components 1.20.0
-- Node.js 24.19.0 LTS and pnpm 11.24.0
-- JUnit 5, AssertJ, Vitest, Testing Library, Playwright, and axe-core
+The BFF is additive: the direct endpoints and adapters are unchanged, and the
+generic component has no BFF-specific mode.
 
-## Architecture
+## Run
 
-Spring loads and validates `diagnoses.json` and `veterinary-clinics.json` once at startup, then retains both immutable catalogues in memory. Each endpoint normalizes the query, ranks matches deterministically, and returns only the requested page. The browser never downloads a complete catalogue.
-
-The frontend's `AsyncAutocomplete<T, Cursor>` owns the shared React Aria behavior. It accepts a typed loader, arbitrary item keys and renderers, configurable accessible text, arbitrary cursor types, controlled or uncontrolled selection, and a selection callback. It uses React Aria's actual `Autocomplete`, `useAsyncList`, and collection behavior, plus an abortable configurable debounce and `ListBoxLoadMoreItem` paging.
-
-`DiagnosisAutocomplete` and `VeterinaryClinicAutocomplete` are thin domain adapters. They supply their API loader, item shape, labels, rendering, and selected-value presentation without duplicating the async or accessible interaction logic. Component CSS is locally imported and all React Aria selectors are scoped beneath `.async-autocomplete`.
-
-## Run locally
-
-Prerequisites are Java 25, Node.js 24.19 or newer, and pnpm 11.24.
-
-Start the backend:
+Use Java 25, Node.js 24.19 or newer, and pnpm 11.24.
 
 ```bash
 cd backend
 ./mvnw spring-boot:run
 ```
 
-In another terminal, start the frontend:
+In another terminal:
 
 ```bash
 cd frontend
@@ -54,68 +51,44 @@ pnpm install --frozen-lockfile
 pnpm dev
 ```
 
-Open `http://localhost:5173`. Vite proxies relative `/api` requests to Spring on port 8080, so wildcard CORS is unnecessary.
+Open `http://localhost:5173`. Vite proxies relative `/api` requests to Spring on
+port 8080.
 
-## Verify
+## API contracts
 
-Backend:
+Direct domain APIs:
 
-```bash
-cd backend
-./mvnw verify
+```text
+GET /api/diagnoses?q=renal&page=0&size=20
+GET /api/veterinary-clinics?q=5591001622&page=0&size=20
 ```
 
-Frontend:
+BFF configuration:
 
-```bash
-cd frontend
-pnpm install --frozen-lockfile
-pnpm lint
-pnpm typecheck
-pnpm test
-pnpm build
+```text
+GET /api/bff/autocompletes/veterinary-clinics
 ```
 
-The full-stack browser test starts both applications, exercises both autocomplete adapters, and runs axe-core:
-
-```bash
-cd frontend
-pnpm exec playwright install chromium
-pnpm test:e2e
+```json
+{
+  "heading": "Find a veterinary clinic through the BFF",
+  "searchUrl": "/api/bff/autocompletes/veterinary-clinics/items"
+}
 ```
 
-## APIs
+BFF results:
 
-Both endpoints support optional `q`, `page`, and `size` parameters. The default page size is 20 and the maximum is 50.
-
-### Diagnoses
-
-```bash
-curl 'http://localhost:8080/api/diagnoses?page=0&size=20'
-curl 'http://localhost:8080/api/diagnoses?q=renal&page=0&size=20'
-curl 'http://localhost:8080/api/diagnoses?q=VET-0042&page=0&size=20'
+```text
+GET /api/bff/autocompletes/veterinary-clinics/items?q=5591001622&page=0&size=20
 ```
-
-Diagnosis searches cover `code` and `description`.
-
-### Veterinary clinics
-
-```bash
-curl 'http://localhost:8080/api/veterinary-clinics?page=0&size=20'
-curl 'http://localhost:8080/api/veterinary-clinics?q=malmo%20park&page=0&size=20'
-curl 'http://localhost:8080/api/veterinary-clinics?q=5591001622&page=0&size=20'
-```
-
-Clinic searches cover `name` and `organisationNumber`. Organisation-number queries tolerate omission of the dash.
-
-Responses use the same application-owned page shape:
 
 ```json
 {
   "items": [
     {
-      "name": "Malmö Park Djursjukhus",
-      "organisationNumber": "559100-1622"
+      "id": "559100-1622",
+      "label": "Malmö Park Djursjukhus",
+      "description": "559100-1622"
     }
   ],
   "page": 0,
@@ -126,9 +99,29 @@ Responses use the same application-owned page shape:
 }
 ```
 
-Blank searches browse in stable human-friendly order. Nonblank searches are case, whitespace, separator, and diacritic tolerant. Invalid paging returns an RFC 9457 Problem Detail response.
+Search, normalization, ranking, and paging stay in the catalogue layer. The BFF
+only projects a page to its presentation contract. Page size defaults to 20 and
+is limited to 50; invalid paging returns a Problem Detail response.
 
-The deterministic clinic fixture can be regenerated with:
+## Verify
+
+```bash
+cd backend
+./mvnw verify
+```
+
+```bash
+cd frontend
+pnpm install --frozen-lockfile
+pnpm lint
+pnpm typecheck
+pnpm test
+pnpm build
+pnpm test:e2e
+```
+
+The browser test exercises direct and BFF flows and runs axe-core. The clinic
+fixture can be regenerated with:
 
 ```bash
 node backend/scripts/generate-veterinary-clinics.mjs

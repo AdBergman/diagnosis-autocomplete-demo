@@ -1,13 +1,15 @@
 import { AxeBuilder } from '@axe-core/playwright'
 import { expect, test } from '@playwright/test'
 
-test('uses one accessible autocomplete for diagnoses and veterinary clinics', async ({
+test('uses one accessible autocomplete with direct APIs and a BFF', async ({
   page,
 }) => {
   await page.goto('/')
 
   await expect(
-    page.getByRole('heading', { name: 'Server-backed autocomplete' }),
+    page.getByRole('heading', {
+      name: 'Autocomplete, with and without a BFF',
+    }),
   ).toBeVisible()
 
   const diagnosisCard = page.getByRole('region', { name: 'Find a diagnosis' })
@@ -40,6 +42,7 @@ test('uses one accessible autocomplete for diagnoses and veterinary clinics', as
 
   const clinicCard = page.getByRole('region', {
     name: 'Find a veterinary clinic',
+    exact: true,
   })
   const clinicSearch = clinicCard.getByRole('searchbox', {
     name: 'Search veterinary clinics',
@@ -58,6 +61,27 @@ test('uses one accessible autocomplete for diagnoses and veterinary clinics', as
   await clinicSearch.press('ArrowDown')
   await clinicSearch.press('Enter')
   await expect(clinicCard.locator('.selection')).toContainText(
+    'Selected: Malmö Park Djursjukhus — 559100-1622',
+  )
+
+  const bffCard = page.getByRole('region', {
+    name: 'Find a veterinary clinic through the BFF',
+    exact: true,
+  })
+  const bffSearch = bffCard.getByRole('searchbox', {
+    name: 'Find a veterinary clinic through the BFF: search',
+  })
+  const bffOptions = bffCard
+    .getByRole('listbox', { name: 'BFF autocomplete results' })
+    .getByRole('option')
+
+  await expect(bffOptions).toHaveCount(20)
+  await bffSearch.fill('5591001622')
+  await expect(bffOptions).toHaveCount(1)
+  await expect(bffOptions.first()).toContainText('559100-1622')
+  await bffSearch.press('ArrowDown')
+  await bffSearch.press('Enter')
+  await expect(bffCard.locator('.selection')).toContainText(
     'Selected: Malmö Park Djursjukhus — 559100-1622',
   )
 

@@ -1,9 +1,9 @@
 import { useId, useState } from 'react'
-import { Text } from 'react-aria-components/ListBox'
+import { Text } from 'react-aria-components'
 import {
   AsyncAutocomplete,
   type AsyncAutocompleteLoadOptions,
-} from './AsyncAutocomplete'
+} from '../components/AsyncAutocomplete'
 import { fetchDiagnoses, type Diagnosis } from './diagnoses-api'
 
 const MESSAGES = {
@@ -24,7 +24,7 @@ export function DiagnosisAutocomplete() {
     <section className="autocomplete-card" aria-labelledby={headingId}>
       <div className="card-heading">
         <div>
-          <h2 id={headingId}>Find a diagnosis</h2>
+          <h3 id={headingId}>Find a diagnosis</h3>
           <p>Search across diagnosis codes and descriptions.</p>
         </div>
         <span className="server-badge">12,000 records</span>
